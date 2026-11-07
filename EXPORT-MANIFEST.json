@@ -1,0 +1,223 @@
+{
+  "files": [
+    {
+      "path": ".github/workflows/palomar-preflight.yml",
+      "bytes": 836,
+      "sha256": "47b4a4fcd27b4a8068f08f23e0c15bc3eb38e20da1f6cb3b06abd96c3db57099"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 42,
+      "sha256": "94a3666e7596db603645ec7eaa358b92ede245882a9f3a600eaa57f1ea69b1b0"
+    },
+    {
+      "path": "AxiomAudit.lean",
+      "bytes": 1707,
+      "sha256": "a39de31c3b7ca3a3cd24e7ca9d956bfffe417d4f44a405865e816a8e7b3d9fe5"
+    },
+    {
+      "path": "Challenge.lean",
+      "bytes": 35638,
+      "sha256": "87dba969eb2f2bea3eab05a6b9a453c3b321c9883852f8bb7d2877c62fb0e78a"
+    },
+    {
+      "path": "Chapter02.lean",
+      "bytes": 11829,
+      "sha256": "3019ef1caad4ab531143bd937fae56812bb9959a658bbe7368b5d5c761cc08af"
+    },
+    {
+      "path": "Chapter02Model.lean",
+      "bytes": 17042,
+      "sha256": "01043a5cc7eb7291f008533cf2c8276773368541a7a15ef83756f50fc6f3a535"
+    },
+    {
+      "path": "Chapter09.lean",
+      "bytes": 9349,
+      "sha256": "b2ddd37756525b68bea9fe5556920970afd469142c5ff93479e44650f040801f"
+    },
+    {
+      "path": "Chapter09Slots.lean",
+      "bytes": 12280,
+      "sha256": "8ccff73ba126807cfb1bb97cf2c8f1a03e98228b096d00534489b26417520f77"
+    },
+    {
+      "path": "Chapter10.lean",
+      "bytes": 8137,
+      "sha256": "8a91be8dd1e48d1d263dad332c95e60745553bcd12aeefbfcf2093bfc521e77d"
+    },
+    {
+      "path": "Chapter10ArcMatrix.lean",
+      "bytes": 5012,
+      "sha256": "48dc6b92407de16923d164ac0a5fc694c5bbc1101626c2b541abec4707db4237"
+    },
+    {
+      "path": "Chapter10ArcPenalty.lean",
+      "bytes": 3626,
+      "sha256": "769401c0684062ead98c2ee3d322444c681742d19d8df2a8701c8d53087cd585"
+    },
+    {
+      "path": "Chapter10ArcRows.lean",
+      "bytes": 10450,
+      "sha256": "72f3469266aee05b857c775664750568de6871fb208d67e6a20e97f1d9e20d3d"
+    },
+    {
+      "path": "Chapter10FiniteAdapters.lean",
+      "bytes": 2586,
+      "sha256": "1c26b302446cf2fa9a68bff1f10017b1751ad0e7f5098e3d6de6f164eed76c1e"
+    },
+    {
+      "path": "Chapter10FiniteAttainment.lean",
+      "bytes": 2453,
+      "sha256": "7f44f498c8ce92f5a0ed9e62d0ed8e04665bdd1fbb9a5c653ac1d56d34c18568"
+    },
+    {
+      "path": "Chapter10FixedBits.lean",
+      "bytes": 5892,
+      "sha256": "20a83a48dcdc51f8b0a5ec739be31ce7dabbe9360dde46e667e7bb61aceecc54"
+    },
+    {
+      "path": "Chapter10IntegerPenalty.lean",
+      "bytes": 7168,
+      "sha256": "249a535dc025b0293cee74956b1547ddb781dcc70ae5982c490f5c259613898b"
+    },
+    {
+      "path": "Chapter10ProductMatrix.lean",
+      "bytes": 933,
+      "sha256": "822ade0c416c331b47a4b7e63f453c900601ca1aceaf680c66d32582716fcfab"
+    },
+    {
+      "path": "Chapter10QUBOAlgebra.lean",
+      "bytes": 5483,
+      "sha256": "f142de325c54151296b981873c45ac60229c9b7a003b2d9c6807298f62b4cd52"
+    },
+    {
+      "path": "Chapter10RoutingData.lean",
+      "bytes": 942,
+      "sha256": "65e9c1881559f306dbc30730c4bb6d37671ccd9441d98f75ede5714d744b2807"
+    },
+    {
+      "path": "Chapter10Sequence.lean",
+      "bytes": 12685,
+      "sha256": "713069b500e40905e1a15a7f5546bbde4e30ef10abe217c24dcc87e59c311b24"
+    },
+    {
+      "path": "Chapter10SequenceCost.lean",
+      "bytes": 4558,
+      "sha256": "9a053e5379eb74aa8f259e079c1daa45142e14c8e8ffca4483395a2a1632a193"
+    },
+    {
+      "path": "Chapter10SequenceFixed.lean",
+      "bytes": 12157,
+      "sha256": "13e4d62829da559fc7589dede6a7e504f54f37aec474ba3d9b3eff9f3bef3199"
+    },
+    {
+      "path": "Chapter10SequenceMatrix.lean",
+      "bytes": 5008,
+      "sha256": "366e5ffa9791ccad658bd18617b53a4b73738ebce2afbdaf0e40228c37bd08c2"
+    },
+    {
+      "path": "Chapter10SequencePenalty.lean",
+      "bytes": 9648,
+      "sha256": "337a8f1ff08feb01ec6664cdb47688f28ef010fc3ff3b38c5e4cefc42418a672"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "NOTICE.md",
+      "bytes": 1009,
+      "sha256": "5576392d5ef20b69e643b69e69fb3226aa2c36dd2171e5f3da197199c1e71e6f"
+    },
+    {
+      "path": "PROVENANCE.md",
+      "bytes": 3440,
+      "sha256": "867c624dac2140d9c38bafb05f2666f375f8315396ce7916fbdc845aca68463b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 9860,
+      "sha256": "0f26a7ca77563d8bdc981378093f6a5e2d7df6d5fa62ed211694979fd8d5b877"
+    },
+    {
+      "path": "RELEASE-STATUS.md",
+      "bytes": 833,
+      "sha256": "0e033a79fdb392ddd44e23a5d82a42be0ce9dbc95b5af1bd8661811b21213875"
+    },
+    {
+      "path": "SOURCE-MANIFEST.json",
+      "bytes": 51984,
+      "sha256": "e11a5b50b757b77ceb592849500bc0c08505111baa9e19e2c77e35414df60825"
+    },
+    {
+      "path": "SOURCE-MAPPING.md",
+      "bytes": 9716,
+      "sha256": "78d730f539c90922548580c931bd0423b6df5932be8538cc817af2ff24bbf83f"
+    },
+    {
+      "path": "Solution.lean",
+      "bytes": 11345,
+      "sha256": "5c7daa4fae13cf9d777ed2bc6ace9c30b3cf0aaa77d257772d4fb026f16af72f"
+    },
+    {
+      "path": "VERIFICATION.json",
+      "bytes": 55547,
+      "sha256": "29e58ff21c6295a2c68a484825fcc932df0f75f015b55ee6c792b39b445be89c"
+    },
+    {
+      "path": "comparator.json",
+      "bytes": 1606,
+      "sha256": "eede7183843815dd155e8487415f2ce85773b2d5c704e152e071a885140dfc87"
+    },
+    {
+      "path": "formalization.yaml",
+      "bytes": 21959,
+      "sha256": "8b9ce7120f6961ac79804636fb84d8532a31ef9cc9e5de2d8d942d6d3e8f3dd3"
+    },
+    {
+      "path": "lake-manifest.json",
+      "bytes": 3557,
+      "sha256": "62715cbe1738a6d4444465472503171c213e9556e13cb9721fc8baa277e4e91e"
+    },
+    {
+      "path": "lakefile.toml",
+      "bytes": 1145,
+      "sha256": "6a65d402d740f70b9cc2568db0c7b61a5f422775df4c848f3b7020df751eed22"
+    },
+    {
+      "path": "lean-toolchain",
+      "bytes": 25,
+      "sha256": "ca5f1f601d34c49079e38d7e7041eb0f2a9c227fbc1df0f404820069a052330c"
+    },
+    {
+      "path": "scripts/LICENSE-PalomarTemplate",
+      "bytes": 11358,
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "scripts/NOTICE-PalomarTemplate.md",
+      "bytes": 352,
+      "sha256": "bbc0390a4aae18471282961c2c74a459501be55e649a5394cf0860b52e110d9c"
+    },
+    {
+      "path": "scripts/check-lean-sources.py",
+      "bytes": 4057,
+      "sha256": "6919911f9905fcc9f01cac96e8c98a348a192a5550a10d127b0b3ced2d74bc5a"
+    },
+    {
+      "path": "scripts/verify.py",
+      "bytes": 4268,
+      "sha256": "0dd8fa9c84678a5562442001a390e66ee16e116ef161112c506471bc0828b65e"
+    }
+  ],
+  "excluded": [
+    ".git",
+    ".lake",
+    "__pycache__",
+    "private preparation/review/usage records",
+    "compiled and cache objects",
+    "source thesis and publisher assets"
+  ],
+  "status": "LOCAL_CHECKED_AGENT_REVIEWED_DOCUMENTARY_SUCCESSOR"
+}

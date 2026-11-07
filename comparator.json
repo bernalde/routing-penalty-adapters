@@ -1,0 +1,35 @@
+{
+  "challenge_module": "Challenge",
+  "solution_module": "Solution",
+  "theorem_names": [
+    "Chapter10.palomar_source_route_penalty_proposition",
+    "Chapter10.Algebra.palomar_integer_penalty_zero_iff",
+    "Chapter10.Algebra.palomar_integer_penalty_gap",
+    "Chapter10.Routing.Arc.palomar_matrix_iff_literal",
+    "Chapter10.Routing.Arc.palomar_arc_penalty_zero_iff",
+    "Chapter10.Routing.Arc.palomar_arc_minimizers_exact",
+    "Chapter10.Routing.Arc.palomar_actual_arc_qubo_identity",
+    "Chapter10.SequencePenalty.palomar_source_penalty_sums",
+    "Chapter10.SequencePenalty.palomar_penalty_zero_iff",
+    "Chapter10.SequencePenalty.palomar_objective_range",
+    "Chapter10.SequencePenalty.palomar_objective_range_printed",
+    "Chapter10.SequencePenalty.palomar_minimizers_exact",
+    "Chapter10.SequencePenalty.palomar_source_energy_matrix_identity",
+    "Chapter10.SequencePenalty.palomar_domain_iff_split_fixed",
+    "Chapter10.SequencePenalty.palomar_source_fixed_energy_identity",
+    "Chapter10.SequencePenalty.palomar_source_fixed_min_transport",
+    "Chapter10.SequencePenalty.palomar_reduced_minimizers_exact",
+    "Chapter10.SequencePenalty.palomar_source_energy_attainment",
+    "Chapter10.Algebra.palomar_full_qubo_identity",
+    "Chapter10.Algebra.palomar_integer_penalty_minimizers_exact",
+    "Chapter10.Algebra.palomar_fixed_qubo_identity",
+    "Chapter10.Algebra.palomar_fixed_qubo_min_transport",
+    "Chapter10.Sequence.penultimate._proof_2",
+    "Chapter10.Sequence.second._proof_2"
+  ],
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ]
+}

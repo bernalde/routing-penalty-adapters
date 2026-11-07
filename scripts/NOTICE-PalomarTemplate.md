@@ -1,0 +1,1 @@
+check-lean-sources.py is an unmodified public PalomarRegistry/PalomarTemplate script, fetched 1 November 2026. Its Apache-2.0 component licence is reproduced in LICENSE-PalomarTemplate. This notice does not licence the rest of this private package. Source URL: https://github.com/PalomarRegistry/PalomarTemplate/blob/main/scripts/check-lean-sources.py

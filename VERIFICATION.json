@@ -1,0 +1,1091 @@
+{
+  "status": "LOCAL_CHECKED_AGENT_REVIEWED_DOCUMENTARY_SUCCESSOR",
+  "scope": "Same previously reviewed mathematical interfaces and completed auxiliary proof propositions, now explicitly named source declarations",
+  "previous_exact_packet_evidence": {
+    "schema": 1,
+    "state": "LOCAL_CHECKED_AGENT_REVIEWED",
+    "scope": "Completed bounded local build/axiom/genuine sandboxed comparison/kernel checks and independent package/interface mathematical review of the full combined C10-PENALTY packet. Documentary synchronization is applied here; exact successor closure and export/rights/privacy checks are recorded separately by the coordinator.",
+    "compared_targets": [
+      "Chapter10.palomar_source_route_penalty_proposition",
+      "Chapter10.Algebra.palomar_integer_penalty_zero_iff",
+      "Chapter10.Algebra.palomar_integer_penalty_gap",
+      "Chapter10.Routing.Arc.palomar_matrix_iff_literal",
+      "Chapter10.Routing.Arc.palomar_arc_penalty_zero_iff",
+      "Chapter10.Routing.Arc.palomar_arc_minimizers_exact",
+      "Chapter10.Routing.Arc.palomar_actual_arc_qubo_identity",
+      "Chapter10.SequencePenalty.palomar_source_penalty_sums",
+      "Chapter10.SequencePenalty.palomar_penalty_zero_iff",
+      "Chapter10.SequencePenalty.palomar_objective_range",
+      "Chapter10.SequencePenalty.palomar_objective_range_printed",
+      "Chapter10.SequencePenalty.palomar_minimizers_exact",
+      "Chapter10.SequencePenalty.palomar_source_energy_matrix_identity",
+      "Chapter10.SequencePenalty.palomar_domain_iff_split_fixed",
+      "Chapter10.SequencePenalty.palomar_source_fixed_energy_identity",
+      "Chapter10.SequencePenalty.palomar_source_fixed_min_transport",
+      "Chapter10.SequencePenalty.palomar_reduced_minimizers_exact",
+      "Chapter10.SequencePenalty.palomar_source_energy_attainment",
+      "Chapter10.Algebra.palomar_full_qubo_identity",
+      "Chapter10.Algebra.palomar_integer_penalty_minimizers_exact",
+      "Chapter10.Algebra.palomar_fixed_qubo_identity",
+      "Chapter10.Algebra.palomar_fixed_qubo_min_transport",
+      "Chapter10.Sequence.penultimate._proof_2",
+      "Chapter10.Sequence.second._proof_2"
+    ],
+    "target_accounting": {
+      "main_interfaces": 18,
+      "support_interfaces": 4,
+      "auxiliary_proof_targets": 2,
+      "total_compared_targets": 24,
+      "independent_new_research_contributions_claimed": 0
+    },
+    "expected_toolchain": "leanprover/lean4:v4.35.0",
+    "upstream_mathlib": "56a005855ea17e0b0958f73ec801ae140b0a1679",
+    "source_copy_hashes": {
+      "Chapter02.lean": "3019ef1caad4ab531143bd937fae56812bb9959a658bbe7368b5d5c761cc08af",
+      "Chapter02Model.lean": "01043a5cc7eb7291f008533cf2c8276773368541a7a15ef83756f50fc6f3a535",
+      "Chapter10.lean": "8a91be8dd1e48d1d263dad332c95e60745553bcd12aeefbfcf2093bfc521e77d",
+      "Chapter10RoutingData.lean": "65e9c1881559f306dbc30730c4bb6d37671ccd9441d98f75ede5714d744b2807",
+      "Chapter10ArcRows.lean": "72f3469266aee05b857c775664750568de6871fb208d67e6a20e97f1d9e20d3d",
+      "Chapter10ArcMatrix.lean": "48dc6b92407de16923d164ac0a5fc694c5bbc1101626c2b541abec4707db4237",
+      "Chapter10QUBOAlgebra.lean": "f142de325c54151296b981873c45ac60229c9b7a003b2d9c6807298f62b4cd52",
+      "Chapter10FiniteAdapters.lean": "1c26b302446cf2fa9a68bff1f10017b1751ad0e7f5098e3d6de6f164eed76c1e",
+      "Chapter10IntegerPenalty.lean": "249a535dc025b0293cee74956b1547ddb781dcc70ae5982c490f5c259613898b",
+      "Chapter10ArcPenalty.lean": "769401c0684062ead98c2ee3d322444c681742d19d8df2a8701c8d53087cd585",
+      "Chapter10Sequence.lean": "713069b500e40905e1a15a7f5546bbde4e30ef10abe217c24dcc87e59c311b24",
+      "Chapter10SequencePenalty.lean": "337a8f1ff08feb01ec6664cdb47688f28ef010fc3ff3b38c5e4cefc42418a672",
+      "Chapter10SequenceCost.lean": "9a053e5379eb74aa8f259e079c1daa45142e14c8e8ffca4483395a2a1632a193",
+      "Chapter10ProductMatrix.lean": "822ade0c416c331b47a4b7e63f453c900601ca1aceaf680c66d32582716fcfab",
+      "Chapter10SequenceMatrix.lean": "366e5ffa9791ccad658bd18617b53a4b73738ebce2afbdaf0e40228c37bd08c2",
+      "Chapter10FixedBits.lean": "20a83a48dcdc51f8b0a5ec739be31ce7dabbe9360dde46e667e7bb61aceecc54",
+      "Chapter09.lean": "b2ddd37756525b68bea9fe5556920970afd469142c5ff93479e44650f040801f",
+      "Chapter09Slots.lean": "8ccff73ba126807cfb1bb97cf2c8f1a03e98228b096d00534489b26417520f77",
+      "Chapter10FiniteAttainment.lean": "7f44f498c8ce92f5a0ed9e62d0ed8e04665bdd1fbb9a5c653ac1d56d34c18568",
+      "Chapter10SequenceFixed.lean": "13e4d62829da559fc7589dede6a7e504f54f37aec474ba3d9b3eff9f3bef3199"
+    },
+    "mechanical_verification": {
+      "retained_record": "PROJECT-S290 verification/routing-penalty02/result.json",
+      "receipt_sha256": "e8b8c7330255a81ab009a2d1f0c8f0072b5dfd633ac13b12709ed38447a9b112",
+      "state": "PASS_BUILD_AXIOMS_SANDBOXED_COMPARATOR_LEAN_NANODA_CONRON",
+      "completed_utc": "2026-11-06T20:32:35.865413+00:00",
+      "actual_lean_version": "Lean (version 4.35.0, x86_64-unknown-linux-gnu, commit eb6cafb7290e8bd5f2937522d8d804f58f02bafc, Release)",
+      "source_build": "Candidate project sources built explicitly; unchanged exact local outputs and pinned upstream caches may be reused, with upstream cache mounted read-only",
+      "cold_build_claimed": false,
+      "serial_module_order": [
+        "Chapter02",
+        "Chapter02Model",
+        "Chapter10",
+        "Chapter10RoutingData",
+        "Chapter10ArcRows",
+        "Chapter10ArcMatrix",
+        "Chapter10QUBOAlgebra",
+        "Chapter10FiniteAdapters",
+        "Chapter10IntegerPenalty",
+        "Chapter10ArcPenalty",
+        "Chapter10Sequence",
+        "Chapter10SequencePenalty",
+        "Chapter10SequenceCost",
+        "Chapter10ProductMatrix",
+        "Chapter10SequenceMatrix",
+        "Chapter10FixedBits",
+        "Chapter09",
+        "Chapter09Slots",
+        "Chapter10FiniteAttainment",
+        "Chapter10SequenceFixed",
+        "Challenge",
+        "Solution"
+      ],
+      "step_results": [
+        {
+          "label": "lean-version",
+          "exit_code": 0,
+          "elapsed_seconds": 0.04317801201250404,
+          "stdout_sha256": "eb22144228dd41cd51a0c84af4f976cd0cef473102dcf99b60be756b11f2b95a",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter02",
+          "exit_code": 0,
+          "elapsed_seconds": 1.3437753819162026,
+          "stdout_sha256": "0f1ae9b6750da7b2737b6cda7c013ede6e99dd8a07a1f560b7157ff275de80f1",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter02Model",
+          "exit_code": 0,
+          "elapsed_seconds": 1.329631908913143,
+          "stdout_sha256": "1d8ec2f25ce635ac0b7a522af3f8ae8e40ac2d219ff035e713492f9c1ad0da93",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter10",
+          "exit_code": 0,
+          "elapsed_seconds": 1.6618328120093793,
+          "stdout_sha256": "49ca1a0b3bea608267a3c70c9141b0d8142117283df0e136c26741e5714a46e2",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter10RoutingData",
+          "exit_code": 0,
+          "elapsed_seconds": 1.6148111479124054,
+          "stdout_sha256": "95d6373a8399018a6c3695ba526656a6686ab6414b026cb1ecba66a985801e8c",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter10ArcRows",
+          "exit_code": 0,
+          "elapsed_seconds": 1.7655234769918025,
+          "stdout_sha256": "bed17921b848551d606369f97e114a37daaa72364c70b9958248933ddf936a98",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter10ArcMatrix",
+          "exit_code": 0,
+          "elapsed_seconds": 1.7070575640536845,
+          "stdout_sha256": "d075f0f384553340cfd7b4565cc301d458b2af8440ef5ff2607deff542ee602a",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter10QUBOAlgebra",
+          "exit_code": 0,
+          "elapsed_seconds": 1.6622192580252886,
+          "stdout_sha256": "744fcbc425585e8bf69e327e91182816b5f4567cdc4d01dacaaba290285b4b1c",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter10FiniteAdapters",
+          "exit_code": 0,
+          "elapsed_seconds": 1.6477992410073057,
+          "stdout_sha256": "d89eae7a64697979be73c439098f472ecbd05028c48c8510cd0b092def848ac0",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter10IntegerPenalty",
+          "exit_code": 0,
+          "elapsed_seconds": 1.6571964420145378,
+          "stdout_sha256": "784d9ea736179ef4f2531d2783f46df06fdcdde27d9aab395c552f066ef45418",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter10ArcPenalty",
+          "exit_code": 0,
+          "elapsed_seconds": 1.6857223550323397,
+          "stdout_sha256": "dfceb0be823232031caf407acd6d14f9c2e8085d791291f9d2f073c5c7886909",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter10Sequence",
+          "exit_code": 0,
+          "elapsed_seconds": 1.8196049690013751,
+          "stdout_sha256": "1268c586ea6fae0d440354b93441b808fa7685d39d2eea5a08def701a8c2141e",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter10SequencePenalty",
+          "exit_code": 0,
+          "elapsed_seconds": 1.7288435050286353,
+          "stdout_sha256": "8c9f4df4b5b67443e4146290b6aa46b6a56c4eed9ad96d8c19bd22fd3d140345",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter10SequenceCost",
+          "exit_code": 0,
+          "elapsed_seconds": 1.7436557590262964,
+          "stdout_sha256": "8655eadc60256db28fff0cf64da54b25e0a6d9c24ddaa0e9c58ef90e4d7ac067",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter10ProductMatrix",
+          "exit_code": 0,
+          "elapsed_seconds": 1.8051418119575828,
+          "stdout_sha256": "62b669d098952bd6d6985de5f01327beb3db30865509ae9dff6465033b4d36ce",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter10SequenceMatrix",
+          "exit_code": 0,
+          "elapsed_seconds": 1.79831117100548,
+          "stdout_sha256": "4c3a9f8475c44867401491972e4e314de55d652be16e6fe5255a4c642f3bc81f",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter10FixedBits",
+          "exit_code": 0,
+          "elapsed_seconds": 1.7297765599796548,
+          "stdout_sha256": "edfedc4f0bc9b1d211415fe2925e374e94c3ebb99f4898fef12f60b35263692e",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter09",
+          "exit_code": 0,
+          "elapsed_seconds": 1.7439235969213769,
+          "stdout_sha256": "b89fad24cdb6f858d1c87284e3170835c98e2fc3db0353ac697888dfec802dab",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter09Slots",
+          "exit_code": 0,
+          "elapsed_seconds": 1.6647407460259274,
+          "stdout_sha256": "52c0e46b044782cd46f1c843a8c632f1661434683e176d991bb7bc3437eface1",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter10FiniteAttainment",
+          "exit_code": 0,
+          "elapsed_seconds": 1.6561661410378292,
+          "stdout_sha256": "4397222655ee6c47efca772f248afaba53aa52b7782c6de50e8c1871b0b68d89",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Chapter10SequenceFixed",
+          "exit_code": 0,
+          "elapsed_seconds": 1.693099171970971,
+          "stdout_sha256": "cec4bc983bd2a105be36a61708ce4918a3d18ade5775c94b7bdaef4fd11a1be8",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Challenge",
+          "exit_code": 0,
+          "elapsed_seconds": 4.805213593062945,
+          "stdout_sha256": "5d8657b3d9b85b5091b0fd541e602d8ae1a7695dba1ea73c699836bd5936fafc",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "build-Solution",
+          "exit_code": 0,
+          "elapsed_seconds": 1.6754075740464032,
+          "stdout_sha256": "2bce4a6102c040546b34c94f63f42f94a73ebbfc67b9851247c8e93331d75b8a",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "default-build",
+          "exit_code": 0,
+          "elapsed_seconds": 4.851788160041906,
+          "stdout_sha256": "802e1501ae1130382a7e853ef90162361874b0b638190ee29d2d52bcc697edf6",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "axioms",
+          "exit_code": 0,
+          "elapsed_seconds": 3.1232994470046833,
+          "stdout_sha256": "f220e120420ef7b32d90a440b363469c51e43f44552f47b084e4464512a1b0bb",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+          "label": "comparator",
+          "exit_code": 0,
+          "elapsed_seconds": 33.63100153999403,
+          "stdout_sha256": "6cfbaa0e0a5801c7ec58a06ff9b0cc6f2ee6dd9b454cacfd7feceaafb9724b1e",
+          "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        }
+      ],
+      "input_snapshot": "All 43 receipt inputs describe the pre-documentary checked successor; the 27 proof/compiler input hashes remain unchanged by ROUTING-DOC-01.",
+      "checked_input_sha256": {
+        "Chapter10ProductMatrix.lean": "822ade0c416c331b47a4b7e63f453c900601ca1aceaf680c66d32582716fcfab",
+        "RELEASE-STATUS.md": "024ae28f9771c6ce78cd5261261e160c7ab6b35a5f7e5ab6fb910789a7681631",
+        ".gitignore": "94a3666e7596db603645ec7eaa358b92ede245882a9f3a600eaa57f1ea69b1b0",
+        "Chapter10SequenceCost.lean": "9a053e5379eb74aa8f259e079c1daa45142e14c8e8ffca4483395a2a1632a193",
+        "Chapter10Sequence.lean": "713069b500e40905e1a15a7f5546bbde4e30ef10abe217c24dcc87e59c311b24",
+        "Chapter10SequenceMatrix.lean": "366e5ffa9791ccad658bd18617b53a4b73738ebce2afbdaf0e40228c37bd08c2",
+        "comparator.json": "eede7183843815dd155e8487415f2ce85773b2d5c704e152e071a885140dfc87",
+        "Chapter10SequenceFixed.lean": "13e4d62829da559fc7589dede6a7e504f54f37aec474ba3d9b3eff9f3bef3199",
+        "lake-manifest.json": "62715cbe1738a6d4444465472503171c213e9556e13cb9721fc8baa277e4e91e",
+        "PROVENANCE.md": "604a9b5731183392abab891e43ee50dedfdf6658f54c3e53ab438ff6ad7e74b0",
+        "SOURCE-MAPPING.md": "21740e943249843cd2d9baaf6f1bdbef5a2502efdf385bd20099bbd775b690dc",
+        "LICENSE": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "Solution.lean": "5c7daa4fae13cf9d777ed2bc6ace9c30b3cf0aaa77d257772d4fb026f16af72f",
+        "README.md": "dc7604a33b7bfa77adb713dc0b3ad26b48cf4493dd9ea0354e8bab328e750802",
+        "Chapter09Slots.lean": "8ccff73ba126807cfb1bb97cf2c8f1a03e98228b096d00534489b26417520f77",
+        "formalization.yaml": "70486b0401e4ce3d1e1abe32d8c8d55dc8726b7e503cdb080eaaf1b0a644987c",
+        "EXPORT-MANIFEST.json": "2cd183c531c76e26cbdf42b9ad06f7699a70b9cdbbc3e872289e1ce6fe79d265",
+        "Chapter02.lean": "3019ef1caad4ab531143bd937fae56812bb9959a658bbe7368b5d5c761cc08af",
+        "lean-toolchain": "ca5f1f601d34c49079e38d7e7041eb0f2a9c227fbc1df0f404820069a052330c",
+        "Chapter10ArcRows.lean": "72f3469266aee05b857c775664750568de6871fb208d67e6a20e97f1d9e20d3d",
+        "Chapter10IntegerPenalty.lean": "249a535dc025b0293cee74956b1547ddb781dcc70ae5982c490f5c259613898b",
+        "Chapter10RoutingData.lean": "65e9c1881559f306dbc30730c4bb6d37671ccd9441d98f75ede5714d744b2807",
+        "Chapter10FiniteAttainment.lean": "7f44f498c8ce92f5a0ed9e62d0ed8e04665bdd1fbb9a5c653ac1d56d34c18568",
+        "Chapter10ArcPenalty.lean": "769401c0684062ead98c2ee3d322444c681742d19d8df2a8701c8d53087cd585",
+        "Chapter10.lean": "8a91be8dd1e48d1d263dad332c95e60745553bcd12aeefbfcf2093bfc521e77d",
+        "Chapter02Model.lean": "01043a5cc7eb7291f008533cf2c8276773368541a7a15ef83756f50fc6f3a535",
+        "Chapter10QUBOAlgebra.lean": "f142de325c54151296b981873c45ac60229c9b7a003b2d9c6807298f62b4cd52",
+        "Chapter10FiniteAdapters.lean": "1c26b302446cf2fa9a68bff1f10017b1751ad0e7f5098e3d6de6f164eed76c1e",
+        "VERIFICATION.json": "86839b34a057e0e4d206a358a2c21bf2139cbed0a8b0981544da1a76f4bc6fc9",
+        "Chapter10SequencePenalty.lean": "337a8f1ff08feb01ec6664cdb47688f28ef010fc3ff3b38c5e4cefc42418a672",
+        "Challenge.lean": "1e0a9bb33a44a9e452599dc76c0657c58ab27423238675f4a6c18b4ee99d9f9c",
+        "Chapter10ArcMatrix.lean": "48dc6b92407de16923d164ac0a5fc694c5bbc1101626c2b541abec4707db4237",
+        "AxiomAudit.lean": "a39de31c3b7ca3a3cd24e7ca9d956bfffe417d4f44a405865e816a8e7b3d9fe5",
+        "SOURCE-MANIFEST.json": "079c8dd7dc33557ede3e7cca33c67184a87b353c59f05bd568fa3a45f6cae94c",
+        "Chapter10FixedBits.lean": "20a83a48dcdc51f8b0a5ec739be31ce7dabbe9360dde46e667e7bb61aceecc54",
+        "NOTICE.md": "5576392d5ef20b69e643b69e69fb3226aa2c36dd2171e5f3da197199c1e71e6f",
+        "lakefile.toml": "6a65d402d740f70b9cc2568db0c7b61a5f422775df4c848f3b7020df751eed22",
+        "Chapter09.lean": "b2ddd37756525b68bea9fe5556920970afd469142c5ff93479e44650f040801f",
+        "scripts/NOTICE-PalomarTemplate.md": "bbc0390a4aae18471282961c2c74a459501be55e649a5394cf0860b52e110d9c",
+        "scripts/LICENSE-PalomarTemplate": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "scripts/check-lean-sources.py": "6919911f9905fcc9f01cac96e8c98a348a192a5550a10d127b0b3ced2d74bc5a",
+        "scripts/verify.py": "0dd8fa9c84678a5562442001a390e66ee16e116ef161112c506471bc0828b65e",
+        ".github/workflows/palomar-preflight.yml": "47b4a4fcd27b4a8068f08f23e0c15bc3eb38e20da1f6cb3b06abd96c3db57099"
+      },
+      "unchanged_proof_compiler_input_sha256": {
+        "Chapter10ProductMatrix.lean": "822ade0c416c331b47a4b7e63f453c900601ca1aceaf680c66d32582716fcfab",
+        "Chapter10SequenceCost.lean": "9a053e5379eb74aa8f259e079c1daa45142e14c8e8ffca4483395a2a1632a193",
+        "Chapter10Sequence.lean": "713069b500e40905e1a15a7f5546bbde4e30ef10abe217c24dcc87e59c311b24",
+        "Chapter10SequenceMatrix.lean": "366e5ffa9791ccad658bd18617b53a4b73738ebce2afbdaf0e40228c37bd08c2",
+        "comparator.json": "eede7183843815dd155e8487415f2ce85773b2d5c704e152e071a885140dfc87",
+        "Chapter10SequenceFixed.lean": "13e4d62829da559fc7589dede6a7e504f54f37aec474ba3d9b3eff9f3bef3199",
+        "lake-manifest.json": "62715cbe1738a6d4444465472503171c213e9556e13cb9721fc8baa277e4e91e",
+        "Solution.lean": "5c7daa4fae13cf9d777ed2bc6ace9c30b3cf0aaa77d257772d4fb026f16af72f",
+        "Chapter09Slots.lean": "8ccff73ba126807cfb1bb97cf2c8f1a03e98228b096d00534489b26417520f77",
+        "Chapter02.lean": "3019ef1caad4ab531143bd937fae56812bb9959a658bbe7368b5d5c761cc08af",
+        "lean-toolchain": "ca5f1f601d34c49079e38d7e7041eb0f2a9c227fbc1df0f404820069a052330c",
+        "Chapter10ArcRows.lean": "72f3469266aee05b857c775664750568de6871fb208d67e6a20e97f1d9e20d3d",
+        "Chapter10IntegerPenalty.lean": "249a535dc025b0293cee74956b1547ddb781dcc70ae5982c490f5c259613898b",
+        "Chapter10RoutingData.lean": "65e9c1881559f306dbc30730c4bb6d37671ccd9441d98f75ede5714d744b2807",
+        "Chapter10FiniteAttainment.lean": "7f44f498c8ce92f5a0ed9e62d0ed8e04665bdd1fbb9a5c653ac1d56d34c18568",
+        "Chapter10ArcPenalty.lean": "769401c0684062ead98c2ee3d322444c681742d19d8df2a8701c8d53087cd585",
+        "Chapter10.lean": "8a91be8dd1e48d1d263dad332c95e60745553bcd12aeefbfcf2093bfc521e77d",
+        "Chapter02Model.lean": "01043a5cc7eb7291f008533cf2c8276773368541a7a15ef83756f50fc6f3a535",
+        "Chapter10QUBOAlgebra.lean": "f142de325c54151296b981873c45ac60229c9b7a003b2d9c6807298f62b4cd52",
+        "Chapter10FiniteAdapters.lean": "1c26b302446cf2fa9a68bff1f10017b1751ad0e7f5098e3d6de6f164eed76c1e",
+        "Chapter10SequencePenalty.lean": "337a8f1ff08feb01ec6664cdb47688f28ef010fc3ff3b38c5e4cefc42418a672",
+        "Challenge.lean": "1e0a9bb33a44a9e452599dc76c0657c58ab27423238675f4a6c18b4ee99d9f9c",
+        "Chapter10ArcMatrix.lean": "48dc6b92407de16923d164ac0a5fc694c5bbc1101626c2b541abec4707db4237",
+        "AxiomAudit.lean": "a39de31c3b7ca3a3cd24e7ca9d956bfffe417d4f44a405865e816a8e7b3d9fe5",
+        "Chapter10FixedBits.lean": "20a83a48dcdc51f8b0a5ec739be31ce7dabbe9360dde46e667e7bb61aceecc54",
+        "lakefile.toml": "6a65d402d740f70b9cc2568db0c7b61a5f422775df4c848f3b7020df751eed22",
+        "Chapter09.lean": "b2ddd37756525b68bea9fe5556920970afd469142c5ff93479e44650f040801f"
+      },
+      "all_52_log_hashes_checked": true,
+      "axiom_stdout_sha256": "f220e120420ef7b32d90a440b363469c51e43f44552f47b084e4464512a1b0bb",
+      "comparator_stdout_sha256": "6cfbaa0e0a5801c7ec58a06ff9b0cc6f2ee6dd9b454cacfd7feceaafb9724b1e",
+      "solution_axioms": {
+        "Chapter10.palomar_source_route_penalty_proposition": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.Algebra.palomar_integer_penalty_zero_iff": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.Algebra.palomar_integer_penalty_gap": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.Routing.Arc.palomar_matrix_iff_literal": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.Routing.Arc.palomar_arc_penalty_zero_iff": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.Routing.Arc.palomar_arc_minimizers_exact": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.Routing.Arc.palomar_actual_arc_qubo_identity": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.SequencePenalty.palomar_source_penalty_sums": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.SequencePenalty.palomar_penalty_zero_iff": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.SequencePenalty.palomar_objective_range": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.SequencePenalty.palomar_objective_range_printed": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.SequencePenalty.palomar_minimizers_exact": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.SequencePenalty.palomar_source_energy_matrix_identity": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.SequencePenalty.palomar_domain_iff_split_fixed": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.SequencePenalty.palomar_source_fixed_energy_identity": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.SequencePenalty.palomar_source_fixed_min_transport": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.SequencePenalty.palomar_reduced_minimizers_exact": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.SequencePenalty.palomar_source_energy_attainment": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.Algebra.palomar_full_qubo_identity": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.Algebra.palomar_integer_penalty_minimizers_exact": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.Algebra.palomar_fixed_qubo_identity": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.Algebra.palomar_fixed_qubo_min_transport": [
+          "Classical.choice",
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.Sequence.penultimate._proof_2": [
+          "Quot.sound",
+          "propext"
+        ],
+        "Chapter10.Sequence.second._proof_2": [
+          "Quot.sound",
+          "propext"
+        ]
+      },
+      "kernels": [
+        "Lean",
+        "NanoDa",
+        "con-ron"
+      ],
+      "conron_verified_declarations": 13068,
+      "local_config_boundary": "Local config supplies the bundled NanoDa and con-ron executable paths only; target names, axiom whitelist and sandbox/kernel checking are preserved."
+    },
+    "comparison_boundary": "Twenty-two unchanged complete mathematical/support interfaces plus exactly two source-generated finite-position proof targets. Actual Comparator established exact elaborated auxiliary proposition equality and validated their completed Solution proofs with the same axiom whitelist and Lean/NanoDa/con-ron replay. Proof bodies may differ for these explicit theorem targets. Every computational definition remains structurally compared; no computational-definition exemption, new axiom, disabled sandbox/checker or skipped kernel.",
+    "resources_and_cache": {
+      "memory_max_bytes": 12884901888,
+      "swap_max_bytes": 0,
+      "cpu_quota": [
+        200000,
+        100000
+      ],
+      "effective_cpu_quota": "two CPUs",
+      "memory_peak_bytes": 859881472,
+      "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\n",
+      "cache_reuse": "Candidate project sources built explicitly; unchanged exact local outputs and pinned upstream caches may be reused, with upstream cache mounted read-only",
+      "upstream_cache_rebuilt": false,
+      "checker_binaries_independently_rebuilt": false
+    },
+    "warnings_and_statement_size": {
+      "challenge_lines": 764,
+      "challenge_bytes": 35376,
+      "hard_caps": {
+        "lines": 1000,
+        "bytes": 102400
+      },
+      "advisory_thresholds_exceeded": {
+        "lines_300": true,
+        "bytes_32768": true
+      },
+      "readability_size_is_not_hosted_preflight": true,
+      "warning_free_claimed": false,
+      "actual_warning_classes": [
+        "22 deliberate Challenge theorem placeholders",
+        "source linter/unused-simp/deprecation warnings",
+        "semireducible class-type validity/Fintype definitions",
+        "generated auxiliary declaration stability warnings"
+      ],
+      "completed_solution_sorry_or_research_axiom_accepted": false
+    },
+    "independent_review": {
+      "retained_record": "PROJECT-S290 review/ROUTING-PENALTY-REVIEW.md",
+      "sha256": "fb9ef5d0a52e824beaa408a7fc86e05b14e084ad025f080dcaee950543da2ce8",
+      "verdict": "SATISFACTORY",
+      "scope": "Bounded source-to-interface/package review of all 22 complete mathematical/support interfaces and two completed proof-valued auxiliaries; not full Chapter10 or whole-thesis review.",
+      "source_coverage": "Retained sealed Chapter9/10 original account plus supplementary original routing.tex reads at 215\u2013350, 350\u2013421 and 443\u2013540. Complete Challenge definitions and all 22 Solution types/aliases inspected, with selected added proof chains; not every unrelated closure proof or expanded proof term.",
+      "checks_inspected_not_rerun": true,
+      "checker_binaries_rebuilt_by_reviewer": false,
+      "reviewer_executable_checks": false,
+      "source_and_interface_checks": {
+        "exact_canonical_and_public_archive_modules": 20,
+        "literal_definition_slices": 116,
+        "complete_source_signature_matches": 22,
+        "main_interfaces": 18,
+        "support_interfaces": 4,
+        "auxiliary_proof_targets": 2
+      },
+      "mandatory_mathematical_or_mechanical_findings": [],
+      "documentary_finding": "ROUTING-DOC-01 requests current-stage synchronization only. Exact documentary successor closure is recorded separately by the coordinator.",
+      "requested_model": "Astra",
+      "requested_effort": "high",
+      "actual_model": null,
+      "actual_effort": null,
+      "native_tokens": null,
+      "estimated_cost_usd": null,
+      "billing": null
+    },
+    "documentary_synchronization": {
+      "finding": "ROUTING-DOC-01",
+      "changed_scientific_or_proof_input": false,
+      "current_bounded_mathematical_review_and_checks_complete": true,
+      "exact_successor_closure": "Coordinator records documentary closeout separately against the eight named successor documents and unchanged 27 proof/compiler inputs; this record does not assert an unperformed closeout."
+    },
+    "metadata_validation": {
+      "retained_prior_record": "PROJECT-S290 metadata/routing-penalty01.json",
+      "receipt_sha256": "894872d4b3780ae243fac9b3fbaed782d3e2afd894fa652b63b8cc08319d1592",
+      "checked_metadata_sha256": "70486b0401e4ce3d1e1abe32d8c8d55dc8726b7e503cdb080eaaf1b0a644987c",
+      "scope": "Pinned retained official metadata contract and v0.4 schema; no live policy claim. Documentary successor check is recorded separately.",
+      "documentary_successor": {
+        "retained_record": "PROJECT-S290 routing-notes/routing-doc01-metadata-check.json",
+        "receipt_sha256": "ba0631b561f8311a3c86009e0f06f916b7da2f9891a47699389785af6afd5896",
+        "checked_metadata_sha256": "2282f4a62c84ebfb586af8722de7222194915ba473d4ea0f839a9c3940c067a2",
+        "official_contract": "pass",
+        "upstream_v04_schema": "pass",
+        "pipeline_commit": "14aa8d6b3c2f14a8540605e37144560b9a00e7e7",
+        "schema_commit": "99c678e569c7c4c0772db297c5ddd5e4c9b6322e",
+        "current_live_policy_claimed": false
+      }
+    },
+    "retained_failed_attempt": {
+      "retained_record": "PROJECT-S290 verification/routing-penalty01/result.json",
+      "receipt_sha256": "b2af7810d51d4c6abf65ed852b5f2dcd6d5b8b444ffa150562b4eb91d6594ea2",
+      "state": "FAILED",
+      "source_and_default_build_and_22_axiom_roots": "pass",
+      "comparator_outcome": "Stopped at proof-body identity mismatch Chapter10.Sequence.penultimate._proof_2 before kernels. This was a packaging comparison mismatch, not a mathematical disproof or failed theorem.",
+      "repair": "Exactly penultimate._proof_2 and second._proof_2 were selected as explicit completed proof-valued theorem checks; sources, computational definitions and all 22 mathematical/support types unchanged.",
+      "failed_attempt_usage_and_costs": "Retained; native attribution and complete billing unavailable."
+    },
+    "external_stages": {
+      "new_public_repository_or_commit": false,
+      "hosted_full_preflight": false,
+      "service_submission": false,
+      "service_review": false,
+      "permanent_registration": false,
+      "workflow_role": "Pinned full mechanical preflight only; does not submit or register.",
+      "permanent_registration_gate": "Delivered service review and its exact digest require the applicable separate author decision."
+    },
+    "trust_and_scope_limits": [
+      "Pinned upstream compiled objects and exact unchanged local project outputs may be reused; not a cold rebuild.",
+      "Reviewer inspected actual logs/hashes and mathematical definitions/proof routes; did not rerun checks or rebuild checker binaries.",
+      "No new paper/version-of-record comparison, historical experiment reconstruction, human peer review, whole-chapter/thesis certification or new theorem credit.",
+      "No new rights adjudication or universal privacy claim; exact software export/rights/privacy checks are separate coordinator gates.",
+      "Capacity, global catalogue/grid completeness, physical route construction, continuous timing/pruning, global inventory/MIRP, ADMM/SCP and solver/hardware/quantum performance remain outside this penalty packet."
+    ],
+    "telemetry": {
+      "requested_review_model": "Astra",
+      "requested_review_effort": "high",
+      "actual_runtime_model": null,
+      "actual_runtime_effort": null,
+      "native_tokens": null,
+      "estimated_cost_usd": null,
+      "billing": null,
+      "total_research_wall_time": null,
+      "recorded_subprocess_elapsed_seconds_sum": 81.58872134599369,
+      "timing_limit": "Sum of recorded step elapsed times is not total wall time or model usage; cache reuse and overlapping histories remain distinct."
+    }
+  },
+  "current_source_repair": {
+    "classification": "Source-level visibility repair only; no new mathematics or helper research credit",
+    "source_diagnostic": {
+      "receipt": "PROJECT-S290 verification/routing-renderable-proof-diag01/result.json",
+      "receipt_sha256": "730f525d0d2e3e011edaac62e6a5b3a862676af3df610132488293d939251b4d",
+      "stdout_sha256": "ef3b5bbb218faf6855da280bae2b6981761a0c513df631dcc925430c5b8e2907"
+    },
+    "declarations": [
+      {
+        "declaration": "Chapter10.Sequence.second._proof_2",
+        "complete_proposition": "\u2200 (k : Nat), 1 < k+2",
+        "source_header": "theorem second._proof_2 (k : \u2115) : 1 < k+2 := by omega",
+        "parent_definition": "Chapter10.Sequence.second",
+        "prior_parent_surface_sha256": "b70e5434a80e015afc7fef0fa4bb62517792d60b36ef22406630a4f0574edb51",
+        "new_parent_surface_sha256": "ddd266da77284df048759d2d092d4134b8f086235250fda0895bb83ee93b07c3",
+        "parent_before": "abbrev second (k : \u2115) : Fin (k+2) := \u27e81, by omega\u27e9",
+        "parent_after": "abbrev second (k : \u2115) : Fin (k+2) := \u27e81, second._proof_2 k\u27e9",
+        "completed_theorem_sha256": "1593c6a95f4d0491f10afcba289d811f53242df31689daf48ef144d6d0234d10",
+        "proof": "Completed ordinary omega theorem; exact elaborated type and full computational constant comparison remain mandatory."
+      },
+      {
+        "declaration": "Chapter10.Sequence.penultimate._proof_2",
+        "complete_proposition": "\u2200 (k : Nat), k < k+2",
+        "source_header": "theorem penultimate._proof_2 (k : \u2115) : k < k+2 := by omega",
+        "parent_definition": "Chapter10.Sequence.penultimate",
+        "prior_parent_surface_sha256": "3c76c5dcf7a56114f39d3114753ee7feee9513e35c1787fbeca126d30f3bf9af",
+        "new_parent_surface_sha256": "65d33a2e2e558cd25d4ee2dd614977104cc1ebee1636b705fe761cba7029a728",
+        "parent_before": "abbrev penultimate (k : \u2115) : Fin (k+2) := \u27e8k, by omega\u27e9",
+        "parent_after": "abbrev penultimate (k : \u2115) : Fin (k+2) := \u27e8k, penultimate._proof_2 k\u27e9",
+        "completed_theorem_sha256": "4c100e97cf7a4d9d7f6cd99cdc316a1a27a94f30c14196a11b668021a30f1b25",
+        "proof": "Completed ordinary omega theorem; exact elaborated type and full computational constant comparison remain mandatory."
+      }
+    ],
+    "all_other_Challenge_bytes_unchanged": true,
+    "source_copies_Solution_main_types_config_axioms_pins_metadata_unchanged": true,
+    "compiled_range_audit": "Private post-build audit of Challenge.ilean for every selected target; not a claim of full remote Verso rendering",
+    "no_computational_exemption": true,
+    "no_raw_declaration_or_anchor_insertion": true,
+    "documentation_comment_placement": "Existing parent doc comments retained immediately above parent abbreviations; theorem doc comments placed above the theorem commands."
+  },
+  "statement_size": {
+    "lines": 770,
+    "bytes": 35638
+  },
+  "current_local_full_gate": "PASS penalty-renderable-fix03; exact full mechanical receipt below.",
+  "affected_source_independent_review": "SATISFACTORY affected-source review; exact review binding below; no hosted rendering verdict.",
+  "remote_renderer": "not run; static explicit headers and compiler ranges do not certify Verso rendering",
+  "new_publication_hosted_intake_registration": "unperformed",
+  "cycle_accounting": {
+    "current_cycle": 2,
+    "maximum": 5,
+    "prior_attempts_retained": true,
+    "counter_not_reset": true
+  },
+  "telemetry": {
+    "native_helper_tokens": null,
+    "estimated_cost_usd": null,
+    "actual_billed_usd": null,
+    "helper_model_inclusion_overlap": "unknown; coordinator alone reconciles; no helper totals inferred"
+  },
+  "historical_preparation_current_local_full_gate": "not yet run for this source-level successor",
+  "historical_preparation_affected_source_independent_review": "coordinator to arrange after actual local full gate",
+  "lean_build_run": true,
+  "axiom_check_run": true,
+  "comparator_run": true,
+  "independent_review": {
+    "verdict": "SATISFACTORY",
+    "record": "PROJECT-S290 review/ROUTING-RENDERABLE-PENALTY-REVIEW.md",
+    "report_sha256": "f55816bc83c0d0d117efb5df36d6f210b03c2ef6cff88ef58bf66f72a1166ada",
+    "findings_sha256": "e4148d4a83196027dbc0467f786d48846ca1e39c62a1bb02282b4b799676fb21",
+    "scope": "Affected source-anchor change only",
+    "mathematical_or_mechanical_mandatory_findings": [],
+    "documentary_delta_closure": "Recorded separately by coordinator after independent inspection of this exact documentary successor.",
+    "reviewer_reran_proof_checks": false,
+    "human_peer_review_claimed": false,
+    "requested_model": "Astra",
+    "requested_effort": "high",
+    "observed_runtime_model": null,
+    "observed_runtime_effort": null
+  },
+  "mechanical_verification": {
+    "record": "PROJECT-S290 verification/penalty-renderable-fix03/result.json",
+    "sha256": "46af4bb298e103b25e163cf92549b111cb367513a8b4bb3be74ebaa438921354",
+    "state": "PASS_BUILD_AXIOMS_SANDBOXED_COMPARATOR_LEAN_NANODA_CONRON",
+    "actual_lean_version": "Lean (version 4.35.0, x86_64-unknown-linux-gnu, commit eb6cafb7290e8bd5f2937522d8d804f58f02bafc, Release)",
+    "source_build": "Candidate project sources built explicitly; unchanged exact local outputs and pinned upstream caches may be reused, with upstream cache mounted read-only",
+    "cold_rebuild_claimed": false,
+    "serial_module_order": [
+      "Chapter02",
+      "Chapter02Model",
+      "Chapter10",
+      "Chapter10RoutingData",
+      "Chapter10ArcRows",
+      "Chapter10ArcMatrix",
+      "Chapter10QUBOAlgebra",
+      "Chapter10FiniteAdapters",
+      "Chapter10IntegerPenalty",
+      "Chapter10ArcPenalty",
+      "Chapter10Sequence",
+      "Chapter10SequencePenalty",
+      "Chapter10SequenceCost",
+      "Chapter10ProductMatrix",
+      "Chapter10SequenceMatrix",
+      "Chapter10FixedBits",
+      "Chapter09",
+      "Chapter09Slots",
+      "Chapter10FiniteAttainment",
+      "Chapter10SequenceFixed",
+      "Challenge",
+      "Solution"
+    ],
+    "steps": [
+      {
+        "label": "lean-version",
+        "exit_code": 0,
+        "elapsed_seconds": 0.03843802202027291,
+        "stdout_sha256": "eb22144228dd41cd51a0c84af4f976cd0cef473102dcf99b60be756b11f2b95a",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter02",
+        "exit_code": 0,
+        "elapsed_seconds": 1.374386933981441,
+        "stdout_sha256": "0f1ae9b6750da7b2737b6cda7c013ede6e99dd8a07a1f560b7157ff275de80f1",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter02Model",
+        "exit_code": 0,
+        "elapsed_seconds": 1.4175293380394578,
+        "stdout_sha256": "1d8ec2f25ce635ac0b7a522af3f8ae8e40ac2d219ff035e713492f9c1ad0da93",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter10",
+        "exit_code": 0,
+        "elapsed_seconds": 1.753894540015608,
+        "stdout_sha256": "cb852921d5a0ec28f9cb8488c1c0a099ae46532269e68e8d62d6017cb46625ae",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter10RoutingData",
+        "exit_code": 0,
+        "elapsed_seconds": 1.681896717986092,
+        "stdout_sha256": "12472d91d5adb2c8f5243747c14e9863f293a9e491f6d6224fdafa3cfdebc08e",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter10ArcRows",
+        "exit_code": 0,
+        "elapsed_seconds": 1.7626305860467255,
+        "stdout_sha256": "0e5bdcfb275a5621b2344d2666861c6161522a6eb846fd941c016496320f4cea",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter10ArcMatrix",
+        "exit_code": 0,
+        "elapsed_seconds": 1.6716695200884715,
+        "stdout_sha256": "08eec5c4c815e84c4afbe8da4fc32baf381c970c04af0f118ad1060ec8f282d0",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter10QUBOAlgebra",
+        "exit_code": 0,
+        "elapsed_seconds": 1.6459836420835927,
+        "stdout_sha256": "e2cab53c1f3bd21ef06b46c51ac4db665c476763c5e70385176fb06051cd37f5",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter10FiniteAdapters",
+        "exit_code": 0,
+        "elapsed_seconds": 1.6753253269707784,
+        "stdout_sha256": "e073c67090973e98992dc8425681ce0d2c27a481795266bc739a82d704f2f709",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter10IntegerPenalty",
+        "exit_code": 0,
+        "elapsed_seconds": 1.7238106259610504,
+        "stdout_sha256": "01a0211dba75f2bb7bc97b8611fbb131b63c4c182228f08a6a8721b58ac54c0c",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter10ArcPenalty",
+        "exit_code": 0,
+        "elapsed_seconds": 1.6589618199504912,
+        "stdout_sha256": "e8f8c9b0bd5d0ac5876d6a28191856042527a1c3a0d7eb2a7c8641f176f40f58",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter10Sequence",
+        "exit_code": 0,
+        "elapsed_seconds": 1.7411611060379073,
+        "stdout_sha256": "0caf5cdb166252072eae75f9514bb5e33d435be0d316eb0323b21c0875cd70ec",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter10SequencePenalty",
+        "exit_code": 0,
+        "elapsed_seconds": 1.792742418940179,
+        "stdout_sha256": "fde1dfa80419d5a06b70d78d68562c5538384e80f1725089206dac48bdeaf20f",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter10SequenceCost",
+        "exit_code": 0,
+        "elapsed_seconds": 1.6960740119684488,
+        "stdout_sha256": "eb3bfce4268d1e909270683c284fe7030ce8d1f71b63a55d6c5e4551689c7ee3",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter10ProductMatrix",
+        "exit_code": 0,
+        "elapsed_seconds": 1.7346813949989155,
+        "stdout_sha256": "bfe3d83016691c2062871ec86880c00189b2e498ee8c4a95c1b441c554defd1c",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter10SequenceMatrix",
+        "exit_code": 0,
+        "elapsed_seconds": 1.6771917359437793,
+        "stdout_sha256": "d0c091eefc9d5c9cc497af0e4f1465ac948baa4916068c268150e9e17e652240",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter10FixedBits",
+        "exit_code": 0,
+        "elapsed_seconds": 1.8687022000085562,
+        "stdout_sha256": "cd76957de87cd9663bf65b75adf4df681237e29f74fe1bf215ed728016b16502",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter09",
+        "exit_code": 0,
+        "elapsed_seconds": 1.677861783071421,
+        "stdout_sha256": "b89fad24cdb6f858d1c87284e3170835c98e2fc3db0353ac697888dfec802dab",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter09Slots",
+        "exit_code": 0,
+        "elapsed_seconds": 1.672750715049915,
+        "stdout_sha256": "52c0e46b044782cd46f1c843a8c632f1661434683e176d991bb7bc3437eface1",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter10FiniteAttainment",
+        "exit_code": 0,
+        "elapsed_seconds": 1.7021009569289163,
+        "stdout_sha256": "6e8061cfc2dacd9f91681c5255323adc68065dbf6f2484cf038c3eef541448cf",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Chapter10SequenceFixed",
+        "exit_code": 0,
+        "elapsed_seconds": 1.6823868689825758,
+        "stdout_sha256": "b12e431c8324af4aad3aab3cb188244027a33efad64fb7a8ff001bb81772bd98",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Challenge",
+        "exit_code": 0,
+        "elapsed_seconds": 10.259645782061853,
+        "stdout_sha256": "9ae9f5cc1372675b5b2dcb0c384f2c6403319881bafba2c575685848d0109671",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "build-Solution",
+        "exit_code": 0,
+        "elapsed_seconds": 1.9930304660229012,
+        "stdout_sha256": "9e908fa58e48b00825d27d5f74788afefdb2dfdc73c57dbf97b908b08b90704f",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "default-build",
+        "exit_code": 0,
+        "elapsed_seconds": 4.765518757980317,
+        "stdout_sha256": "76cb972be2d1c526462367d945270181c75fb7a100f4ca18b488fc03946a6c82",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "axioms",
+        "exit_code": 0,
+        "elapsed_seconds": 2.570894740987569,
+        "stdout_sha256": "f220e120420ef7b32d90a440b363469c51e43f44552f47b084e4464512a1b0bb",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      },
+      {
+        "label": "comparator",
+        "exit_code": 0,
+        "elapsed_seconds": 32.747851444990374,
+        "stdout_sha256": "a410bb48bb94cc0e939f41529e25cf970067824fe5f5a43d501b77b08c0e3565",
+        "stderr_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+      }
+    ],
+    "solution_axioms": {
+      "Chapter10.palomar_source_route_penalty_proposition": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.Algebra.palomar_integer_penalty_zero_iff": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.Algebra.palomar_integer_penalty_gap": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.Routing.Arc.palomar_matrix_iff_literal": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.Routing.Arc.palomar_arc_penalty_zero_iff": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.Routing.Arc.palomar_arc_minimizers_exact": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.Routing.Arc.palomar_actual_arc_qubo_identity": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.SequencePenalty.palomar_source_penalty_sums": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.SequencePenalty.palomar_penalty_zero_iff": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.SequencePenalty.palomar_objective_range": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.SequencePenalty.palomar_objective_range_printed": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.SequencePenalty.palomar_minimizers_exact": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.SequencePenalty.palomar_source_energy_matrix_identity": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.SequencePenalty.palomar_domain_iff_split_fixed": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.SequencePenalty.palomar_source_fixed_energy_identity": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.SequencePenalty.palomar_source_fixed_min_transport": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.SequencePenalty.palomar_reduced_minimizers_exact": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.SequencePenalty.palomar_source_energy_attainment": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.Algebra.palomar_full_qubo_identity": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.Algebra.palomar_integer_penalty_minimizers_exact": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.Algebra.palomar_fixed_qubo_identity": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.Algebra.palomar_fixed_qubo_min_transport": [
+        "Classical.choice",
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.Sequence.penultimate._proof_2": [
+        "Quot.sound",
+        "propext"
+      ],
+      "Chapter10.Sequence.second._proof_2": [
+        "Quot.sound",
+        "propext"
+      ]
+    },
+    "completed_utc": "2026-11-06T22:38:37.535484+00:00",
+    "resources": {
+      "memory_max": 12884901888,
+      "swap_max": 0,
+      "cpu_max": [
+        200000,
+        100000
+      ],
+      "memory_peak_bytes": 928382976,
+      "memory_events": "low 0\nhigh 0\nmax 0\noom 0\noom_kill 0\noom_group_kill 0\n"
+    },
+    "kernels_passed": [
+      "Lean default",
+      "NanoDa",
+      "con-ron"
+    ],
+    "source_header_scanner_sha256": "6919911f9905fcc9f01cac96e8c98a348a192a5550a10d127b0b3ced2d74bc5a",
+    "warning_free_claimed": false,
+    "limits": [
+      "Retained actual logs may include linters, deliberate Challenge placeholder warnings and informational kernel notices.",
+      "Unchanged exact local outputs and pinned read-only upstream caches may be reused.",
+      "Runtime, compiler, upstream cache and checker binary trust remain; independent reviewer inspected receipts, did not rerun checks."
+    ]
+  },
+  "unchanged_proof_compiler_inputs": {
+    "Chapter10ProductMatrix.lean": "822ade0c416c331b47a4b7e63f453c900601ca1aceaf680c66d32582716fcfab",
+    "Chapter10SequenceCost.lean": "9a053e5379eb74aa8f259e079c1daa45142e14c8e8ffca4483395a2a1632a193",
+    "Chapter10Sequence.lean": "713069b500e40905e1a15a7f5546bbde4e30ef10abe217c24dcc87e59c311b24",
+    "Chapter10SequenceMatrix.lean": "366e5ffa9791ccad658bd18617b53a4b73738ebce2afbdaf0e40228c37bd08c2",
+    "comparator.json": "eede7183843815dd155e8487415f2ce85773b2d5c704e152e071a885140dfc87",
+    "Chapter10SequenceFixed.lean": "13e4d62829da559fc7589dede6a7e504f54f37aec474ba3d9b3eff9f3bef3199",
+    "lake-manifest.json": "62715cbe1738a6d4444465472503171c213e9556e13cb9721fc8baa277e4e91e",
+    "Solution.lean": "5c7daa4fae13cf9d777ed2bc6ace9c30b3cf0aaa77d257772d4fb026f16af72f",
+    "Chapter09Slots.lean": "8ccff73ba126807cfb1bb97cf2c8f1a03e98228b096d00534489b26417520f77",
+    "Chapter02.lean": "3019ef1caad4ab531143bd937fae56812bb9959a658bbe7368b5d5c761cc08af",
+    "lean-toolchain": "ca5f1f601d34c49079e38d7e7041eb0f2a9c227fbc1df0f404820069a052330c",
+    "Chapter10ArcRows.lean": "72f3469266aee05b857c775664750568de6871fb208d67e6a20e97f1d9e20d3d",
+    "Chapter10IntegerPenalty.lean": "249a535dc025b0293cee74956b1547ddb781dcc70ae5982c490f5c259613898b",
+    "Chapter10RoutingData.lean": "65e9c1881559f306dbc30730c4bb6d37671ccd9441d98f75ede5714d744b2807",
+    "Chapter10FiniteAttainment.lean": "7f44f498c8ce92f5a0ed9e62d0ed8e04665bdd1fbb9a5c653ac1d56d34c18568",
+    "Chapter10ArcPenalty.lean": "769401c0684062ead98c2ee3d322444c681742d19d8df2a8701c8d53087cd585",
+    "Chapter10.lean": "8a91be8dd1e48d1d263dad332c95e60745553bcd12aeefbfcf2093bfc521e77d",
+    "Chapter02Model.lean": "01043a5cc7eb7291f008533cf2c8276773368541a7a15ef83756f50fc6f3a535",
+    "Chapter10QUBOAlgebra.lean": "f142de325c54151296b981873c45ac60229c9b7a003b2d9c6807298f62b4cd52",
+    "Chapter10FiniteAdapters.lean": "1c26b302446cf2fa9a68bff1f10017b1751ad0e7f5098e3d6de6f164eed76c1e",
+    "Chapter10SequencePenalty.lean": "337a8f1ff08feb01ec6664cdb47688f28ef010fc3ff3b38c5e4cefc42418a672",
+    "Challenge.lean": "87dba969eb2f2bea3eab05a6b9a453c3b321c9883852f8bb7d2877c62fb0e78a",
+    "Chapter10ArcMatrix.lean": "48dc6b92407de16923d164ac0a5fc694c5bbc1101626c2b541abec4707db4237",
+    "AxiomAudit.lean": "a39de31c3b7ca3a3cd24e7ca9d956bfffe417d4f44a405865e816a8e7b3d9fe5",
+    "Chapter10FixedBits.lean": "20a83a48dcdc51f8b0a5ec739be31ce7dabbe9360dde46e667e7bb61aceecc54",
+    "lakefile.toml": "6a65d402d740f70b9cc2568db0c7b61a5f422775df4c848f3b7020df751eed22",
+    "Chapter09.lean": "b2ddd37756525b68bea9fe5556920970afd469142c5ff93479e44650f040801f"
+  },
+  "additional_unchanged_diagnostic_inputs": {},
+  "documentary_closure": "Coordinator retains independent exact-delta closure separately; this file does not certify its own successor.",
+  "new_public_commit": false,
+  "hosted_preflight": "not run",
+  "submitted": false,
+  "registered": false,
+  "source_anchor_audit": {
+    "record": "PROJECT-S290 routing-notes/routing-penalty-adapters-COMPILER-RANGE-AUDIT.json",
+    "sha256": "8364040c05a7b64258f60052bf27b95fdf31c593ed7eaecbe3020af24619b308",
+    "selected_targets": 24,
+    "all_selected_explicit_source_headers_and_compiler_ranges": true,
+    "limits": "Local compiler-backed name/range inventory; actual hosted rendering unperformed."
+  }
+}

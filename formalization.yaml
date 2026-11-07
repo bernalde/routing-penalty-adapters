@@ -1,0 +1,484 @@
+version: v0.4
+project:
+  name: Finite integer penalties and literal routing QUBO transport
+  description: 'A complete source-based finite penalty/energy family: the generic full ordered QUBO identity
+    and strict integer-row minimizer equivalence, consistent fixed-coordinate energy/minimizer transport,
+    and the literal incidence, time-indexed arc and sequence applications. The statements retain actual
+    rows, repeated costs, full offsets, source free/fixed partitions, feasibility conditions, strict sufficient
+    thresholds and finite source energy attainment. Capacity, physical route completeness and solver/quantum
+    performance are outside scope.'
+  authors:
+  - David E. Bernal Neira
+  responsible_maintainers:
+  - David E. Bernal Neira
+  license: Apache-2.0
+repository:
+  role: substantive-development
+classification:
+  arxiv:
+  - math.OC
+  msc2020:
+  - 90C09
+  - 90C11
+sources:
+- title: Modern computational approaches to nonlinear discrete optimization and applications in process
+    systems engineering
+  authors:
+  - David E. Bernal Neira
+  type: other
+  relationship: adapts
+  location: Carnegie Mellon University, Ph.D. thesis, 2021, Chapter 10; original routing.tex 163-212,
+    215-350 and 443-540.
+  note: The actual incidence/arc/sequence rows, full energy constants, strict thresholds, feasible-instance
+    conditions and consistent fixed-domain split are explicit. Source documents are cited, not redistributed.
+- title: Formulating and Solving Routing Problems on Quantum Computers
+  authors:
+  - Stuart Harwood
+  - Claudio Gambella
+  - Dimitar Trenev
+  - Andrea Simonetto
+  - David Bernal
+  - Donny Greenberg
+  id: doi:10.1109/TQE.2021.3049230
+  type: paper
+  relationship: background
+  location: IEEE Transactions on Quantum Engineering 2, article 3100117 (2021).
+  note: Joint research underlying the thesis chapter; this package does not assert a version-of-record
+    correction, endorsement by other authors or quantum/empirical performance.
+- title: Ising formulations of many NP problems
+  authors:
+  - Andrew Lucas
+  type: paper
+  relationship: background
+  location: Frontiers in Physics 2, article 5 (2014); sections 3/4.1 cited by the thesis QUBO discussion.
+  note: Prior-work citation preserved from the thesis; no new paper-proof comparison or novelty claim.
+status:
+  scope: 'The generic integer/QUBO core and its literal finite incidence, arc and sequence adapters form
+    one coherent family with 22 compared interfaces: 18 main interfaces and 4 explicitly disclosed unit-gap/range
+    support roots. All original source types, quantified domains, strict bounds, feasible-instance conditions,
+    full ordered matrix constants and actual fixed-coordinate maps are retained. Generic fixed energy
+    permits arbitrary real fixed values when stated; minimizer transport retains binary consistency. Literal
+    fixed-coordinate transport retains allowed depot-loop consistency. No equality-threshold exactness,
+    sharp/minimal penalty, capacity/global catalogue/grid completeness, historical solver behavior, hardware
+    energy convention or quantum performance is established.'
+  main_results:
+  - declaration: Chapter10.palomar_source_route_penalty_proposition
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit main interface within one coherent family; incidence companion; not an independent
+      new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.Algebra.palomar_integer_penalty_zero_iff
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit support interface within one coherent family; unit-gap support; not an independent
+      new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.Algebra.palomar_integer_penalty_gap
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit support interface within one coherent family; unit-gap support; not an independent
+      new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.Routing.Arc.palomar_matrix_iff_literal
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit main interface within one coherent family; literal arc matrix bridge; not an independent
+      new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.Routing.Arc.palomar_arc_penalty_zero_iff
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit main interface within one coherent family; literal arc penalty; not an independent
+      new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.Routing.Arc.palomar_arc_minimizers_exact
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit main interface within one coherent family; literal arc minimizers; not an independent
+      new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.Routing.Arc.palomar_actual_arc_qubo_identity
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit main interface within one coherent family; literal arc matrix energy; not an independent
+      new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.SequencePenalty.palomar_source_penalty_sums
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit main interface within one coherent family; literal sequence penalty sums; not an independent
+      new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.SequencePenalty.palomar_penalty_zero_iff
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit main interface within one coherent family; literal sequence penalty; not an independent
+      new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.SequencePenalty.palomar_objective_range
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit support interface within one coherent family; tight repeated-cost bound; not an independent
+      new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.SequencePenalty.palomar_objective_range_printed
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit support interface within one coherent family; printed repeated-cost bound; not an independent
+      new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.SequencePenalty.palomar_minimizers_exact
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit main interface within one coherent family; literal sequence minimizers; not an independent
+      new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.SequencePenalty.palomar_source_energy_matrix_identity
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit main interface within one coherent family; literal sequence matrix energy; not an independent
+      new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.SequencePenalty.palomar_domain_iff_split_fixed
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit main interface within one coherent family; actual source fixed partition; not an independent
+      new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.SequencePenalty.palomar_source_fixed_energy_identity
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit main interface within one coherent family; actual source reduced energy; not an independent
+      new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.SequencePenalty.palomar_source_fixed_min_transport
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit main interface within one coherent family; actual source minimum transport; not an
+      independent new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.SequencePenalty.palomar_reduced_minimizers_exact
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit main interface within one coherent family; actual source reduced exactness; not an
+      independent new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.SequencePenalty.palomar_source_energy_attainment
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit main interface within one coherent family; actual finite source attainment; not an
+      independent new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.Algebra.palomar_full_qubo_identity
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit main interface within one coherent family; generic integer/QUBO core; not an independent
+      new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.Algebra.palomar_integer_penalty_minimizers_exact
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit main interface within one coherent family; generic integer/QUBO core; not an independent
+      new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.Algebra.palomar_fixed_qubo_identity
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit main interface within one coherent family; generic integer/QUBO core; not an independent
+      new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.Algebra.palomar_fixed_qubo_min_transport
+    file: Solution.lean
+    comparator_config: comparator.json
+    note: Explicit main interface within one coherent family; generic integer/QUBO core; not an independent
+      new research contribution.
+    axioms:
+    - Classical.choice
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.Sequence.penultimate._proof_2
+    file: Chapter10Sequence.lean
+    comparator_config: comparator.json
+    note: Completed auxiliary finite-position validity proof, not an additional research contribution.
+      Actual exact elaborated proposition comparison, completed Solution proof replay and all three kernels
+      passed; observed axioms are propext and Quot.sound. All computational definitions remain structurally
+      compared.
+    axioms:
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  - declaration: Chapter10.Sequence.second._proof_2
+    file: Chapter10Sequence.lean
+    comparator_config: comparator.json
+    note: Completed auxiliary finite-position validity proof, not an additional research contribution.
+      Actual exact elaborated proposition comparison, completed Solution proof replay and all three kernels
+      passed; observed axioms are propext and Quot.sound. All computational definitions remain structurally
+      compared.
+    axioms:
+    - Quot.sound
+    - propext
+    sorry_count: 0
+  package_verification: Completed actual local checks and bounded independent review; exact evidence in
+    VERIFICATION.json. Exact documentary/export closure is separately retained by coordinator; all new
+    external stages remain unperformed.
+  main_interface_count: 18
+  support_interface_count: 4
+  statement_size:
+    lines: 770
+    bytes: 35638
+    hard_caps: within 1,000 lines/100 KiB
+    advisory: 770 lines and 35,638 bytes exceed the 300-line/32 KiB readability advisories and satisfy
+      hard caps. Static dimensions are not hosted preflight; actual logs retain linter, class-type, generated-helper
+      and deliberate Challenge-placeholder warnings.
+  auxiliary_proof_target_count: 2
+  compared_target_count: 24
+automation:
+  methods:
+  - method: agent
+    models: []
+    framework: Codex
+    tool_setup: Twenty accepted source modules copied unchanged; independent Mathlib-only genuine definitions
+      and complete source types, explicit completed proof aliases, all 24-root axiom checks and genuine
+      bounded sandboxed Comparator with bundled Lean/NanoDa/con-ron acceptance. Exact unchanged local
+      project outputs and read-only pinned upstream cache may be reused; not a cold rebuild.
+    prompting_notes: Retain literal source coordinates, all original quantified rows and premises, constant
+      factors, nonempty feasible-instance conditions and actual fixed-coordinate maps. No assumed oracle
+      replaces a source result.
+    cost:
+      spend_usd: unknown; native model/counter inclusion and attributable billing unavailable
+      wall_time: not attributed
+      hardware: Preparation only; no Lean/build/kernel invocation by this helper.
+  notes: No new theorem credit. Local mathematical/interface review and mechanical checks are complete;
+    documentary successor/export closure is recorded separately. Reviewer inspected actual evidence without
+    executing new proof/kernel checks. Requested Astra/high does not establish observed model/effort;
+    native tokens, attributable full cost/billing and total research wall time remain unavailable. Subsequent
+    coordinator actual local checks and bounded independent review are bound in VERIFICATION.json. Historical
+    static preparation method entries retain their original scope; native model/helper tokens, inclusion/overlap,
+    estimated cost and billing remain unknown.
+fidelity:
+  divergences: 'The generic integer/QUBO core and its literal finite incidence, arc and sequence adapters
+    form one coherent family with 22 compared interfaces: 18 main interfaces and 4 explicitly disclosed
+    unit-gap/range support roots. All original source types, quantified domains, strict bounds, feasible-instance
+    conditions, full ordered matrix constants and actual fixed-coordinate maps are retained. Generic fixed
+    energy permits arbitrary real fixed values when stated; minimizer transport retains binary consistency.
+    Literal fixed-coordinate transport retains allowed depot-loop consistency. No equality-threshold exactness,
+    sharp/minimal penalty, capacity/global catalogue/grid completeness, historical solver behavior, hardware
+    energy convention or quantum performance is established.'
+  comparison_boundary: Twenty-two unchanged complete mathematical/support interfaces plus exactly two
+    source-generated finite-position proof targets. Actual Comparator established exact elaborated auxiliary
+    proposition equality and validated their completed Solution proofs with the same axiom whitelist and
+    Lean/NanoDa/con-ron replay. Proof bodies may differ for these explicit theorem targets. Every computational
+    definition remains structurally compared; no computational-definition exemption, new axiom, disabled
+    sandbox/checker or skipped kernel.
+review:
+  status: agent-reviewed
+  notes: Independent bounded package/interface review SATISFACTORY, no mathematical or mechanical mandatory
+    finding. Actual local build, all selected transitive axioms and genuine sandboxed Comparator with
+    Lean/NanoDa/con-ron passed; consult VERIFICATION.json for exact receipts, scope, warnings, cache/resource/trust/usage
+    and external-stage limits. Documentary successor closure is separately recorded by the coordinator.
+    Requested Astra/high is not observed runtime identity. No human peer review or Palomar service verdict
+    is claimed.
+alignment:
+  statements:
+  - source: Chapter10.source_route_penalty_proposition
+    lean: Chapter10.palomar_source_route_penalty_proposition
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; main interface.
+  - source: Chapter10.Algebra.integer_penalty_zero_iff
+    lean: Chapter10.Algebra.palomar_integer_penalty_zero_iff
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; support interface.
+  - source: Chapter10.Algebra.integer_penalty_gap
+    lean: Chapter10.Algebra.palomar_integer_penalty_gap
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; support interface.
+  - source: Chapter10.Routing.Arc.matrix_iff_literal
+    lean: Chapter10.Routing.Arc.palomar_matrix_iff_literal
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; main interface.
+  - source: Chapter10.Routing.Arc.arc_penalty_zero_iff
+    lean: Chapter10.Routing.Arc.palomar_arc_penalty_zero_iff
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; main interface.
+  - source: Chapter10.Routing.Arc.arc_minimizers_exact
+    lean: Chapter10.Routing.Arc.palomar_arc_minimizers_exact
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; main interface.
+  - source: Chapter10.Routing.Arc.actual_arc_qubo_identity
+    lean: Chapter10.Routing.Arc.palomar_actual_arc_qubo_identity
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; main interface.
+  - source: Chapter10.SequencePenalty.source_penalty_sums
+    lean: Chapter10.SequencePenalty.palomar_source_penalty_sums
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; main interface.
+  - source: Chapter10.SequencePenalty.penalty_zero_iff
+    lean: Chapter10.SequencePenalty.palomar_penalty_zero_iff
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; main interface.
+  - source: Chapter10.SequencePenalty.objective_range
+    lean: Chapter10.SequencePenalty.palomar_objective_range
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; support interface.
+  - source: Chapter10.SequencePenalty.objective_range_printed
+    lean: Chapter10.SequencePenalty.palomar_objective_range_printed
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; support interface.
+  - source: Chapter10.SequencePenalty.minimizers_exact
+    lean: Chapter10.SequencePenalty.palomar_minimizers_exact
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; main interface.
+  - source: Chapter10.SequencePenalty.source_energy_matrix_identity
+    lean: Chapter10.SequencePenalty.palomar_source_energy_matrix_identity
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; main interface.
+  - source: Chapter10.SequencePenalty.domain_iff_split_fixed
+    lean: Chapter10.SequencePenalty.palomar_domain_iff_split_fixed
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; main interface.
+  - source: Chapter10.SequencePenalty.source_fixed_energy_identity
+    lean: Chapter10.SequencePenalty.palomar_source_fixed_energy_identity
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; main interface.
+  - source: Chapter10.SequencePenalty.source_fixed_min_transport
+    lean: Chapter10.SequencePenalty.palomar_source_fixed_min_transport
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; main interface.
+  - source: Chapter10.SequencePenalty.reduced_minimizers_exact
+    lean: Chapter10.SequencePenalty.palomar_reduced_minimizers_exact
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; main interface.
+  - source: Chapter10.SequencePenalty.source_energy_attainment
+    lean: Chapter10.SequencePenalty.palomar_source_energy_attainment
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; main interface.
+  - source: Chapter10.Algebra.full_qubo_identity
+    lean: Chapter10.Algebra.palomar_full_qubo_identity
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; main interface.
+  - source: Chapter10.Algebra.integer_penalty_minimizers_exact
+    lean: Chapter10.Algebra.palomar_integer_penalty_minimizers_exact
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; main interface.
+  - source: Chapter10.Algebra.fixed_qubo_identity
+    lean: Chapter10.Algebra.palomar_fixed_qubo_identity
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; main interface.
+  - source: Chapter10.Algebra.fixed_qubo_min_transport
+    lean: Chapter10.Algebra.palomar_fixed_qubo_min_transport
+    module: Solution
+    status: adapted interface
+    note: Complete source type retained; main interface.
+  auxiliary_proof_targets:
+  - Chapter10.Sequence.penultimate._proof_2
+  - Chapter10.Sequence.second._proof_2
+acknowledgements: Joint source-paper authors, prior formulation researchers, Lean/Mathlib contributors
+  and AI-assisted formal development. Bibliographic authorship and formalization responsibility are distinguished;
+  no other source-author endorsement is claimed.

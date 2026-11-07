@@ -1,0 +1,1224 @@
+{
+  "status": "LOCAL_CHECKED_AGENT_REVIEWED_DOCUMENTARY_SUCCESSOR",
+  "source_modules": [
+    {
+      "module": "Chapter02",
+      "file": "Chapter02.lean",
+      "source": "lean-modern/Chapter02.lean",
+      "sha256": "3019ef1caad4ab531143bd937fae56812bb9959a658bbe7368b5d5c761cc08af"
+    },
+    {
+      "module": "Chapter02Model",
+      "file": "Chapter02Model.lean",
+      "source": "lean-modern/Chapter02Model.lean",
+      "sha256": "01043a5cc7eb7291f008533cf2c8276773368541a7a15ef83756f50fc6f3a535"
+    },
+    {
+      "module": "Chapter10",
+      "file": "Chapter10.lean",
+      "source": "lean-modern/Chapter10.lean",
+      "sha256": "8a91be8dd1e48d1d263dad332c95e60745553bcd12aeefbfcf2093bfc521e77d"
+    },
+    {
+      "module": "Chapter10RoutingData",
+      "file": "Chapter10RoutingData.lean",
+      "source": "lean-modern/Chapter10RoutingData.lean",
+      "sha256": "65e9c1881559f306dbc30730c4bb6d37671ccd9441d98f75ede5714d744b2807"
+    },
+    {
+      "module": "Chapter10ArcRows",
+      "file": "Chapter10ArcRows.lean",
+      "source": "lean-modern/Chapter10ArcRows.lean",
+      "sha256": "72f3469266aee05b857c775664750568de6871fb208d67e6a20e97f1d9e20d3d"
+    },
+    {
+      "module": "Chapter10ArcMatrix",
+      "file": "Chapter10ArcMatrix.lean",
+      "source": "lean-modern/Chapter10ArcMatrix.lean",
+      "sha256": "48dc6b92407de16923d164ac0a5fc694c5bbc1101626c2b541abec4707db4237"
+    },
+    {
+      "module": "Chapter10QUBOAlgebra",
+      "file": "Chapter10QUBOAlgebra.lean",
+      "source": "lean-modern/Chapter10QUBOAlgebra.lean",
+      "sha256": "f142de325c54151296b981873c45ac60229c9b7a003b2d9c6807298f62b4cd52"
+    },
+    {
+      "module": "Chapter10FiniteAdapters",
+      "file": "Chapter10FiniteAdapters.lean",
+      "source": "lean-modern/Chapter10FiniteAdapters.lean",
+      "sha256": "1c26b302446cf2fa9a68bff1f10017b1751ad0e7f5098e3d6de6f164eed76c1e"
+    },
+    {
+      "module": "Chapter10IntegerPenalty",
+      "file": "Chapter10IntegerPenalty.lean",
+      "source": "lean-modern/Chapter10IntegerPenalty.lean",
+      "sha256": "249a535dc025b0293cee74956b1547ddb781dcc70ae5982c490f5c259613898b"
+    },
+    {
+      "module": "Chapter10ArcPenalty",
+      "file": "Chapter10ArcPenalty.lean",
+      "source": "lean-modern/Chapter10ArcPenalty.lean",
+      "sha256": "769401c0684062ead98c2ee3d322444c681742d19d8df2a8701c8d53087cd585"
+    },
+    {
+      "module": "Chapter10Sequence",
+      "file": "Chapter10Sequence.lean",
+      "source": "lean-modern/Chapter10Sequence.lean",
+      "sha256": "713069b500e40905e1a15a7f5546bbde4e30ef10abe217c24dcc87e59c311b24"
+    },
+    {
+      "module": "Chapter10SequencePenalty",
+      "file": "Chapter10SequencePenalty.lean",
+      "source": "lean-modern/Chapter10SequencePenalty.lean",
+      "sha256": "337a8f1ff08feb01ec6664cdb47688f28ef010fc3ff3b38c5e4cefc42418a672"
+    },
+    {
+      "module": "Chapter10SequenceCost",
+      "file": "Chapter10SequenceCost.lean",
+      "source": "lean-modern/Chapter10SequenceCost.lean",
+      "sha256": "9a053e5379eb74aa8f259e079c1daa45142e14c8e8ffca4483395a2a1632a193"
+    },
+    {
+      "module": "Chapter10ProductMatrix",
+      "file": "Chapter10ProductMatrix.lean",
+      "source": "lean-modern/Chapter10ProductMatrix.lean",
+      "sha256": "822ade0c416c331b47a4b7e63f453c900601ca1aceaf680c66d32582716fcfab"
+    },
+    {
+      "module": "Chapter10SequenceMatrix",
+      "file": "Chapter10SequenceMatrix.lean",
+      "source": "lean-modern/Chapter10SequenceMatrix.lean",
+      "sha256": "366e5ffa9791ccad658bd18617b53a4b73738ebce2afbdaf0e40228c37bd08c2"
+    },
+    {
+      "module": "Chapter10FixedBits",
+      "file": "Chapter10FixedBits.lean",
+      "source": "lean-modern/Chapter10FixedBits.lean",
+      "sha256": "20a83a48dcdc51f8b0a5ec739be31ce7dabbe9360dde46e667e7bb61aceecc54"
+    },
+    {
+      "module": "Chapter09",
+      "file": "Chapter09.lean",
+      "source": "lean-modern/Chapter09.lean",
+      "sha256": "b2ddd37756525b68bea9fe5556920970afd469142c5ff93479e44650f040801f"
+    },
+    {
+      "module": "Chapter09Slots",
+      "file": "Chapter09Slots.lean",
+      "source": "lean-modern/Chapter09Slots.lean",
+      "sha256": "8ccff73ba126807cfb1bb97cf2c8f1a03e98228b096d00534489b26417520f77"
+    },
+    {
+      "module": "Chapter10FiniteAttainment",
+      "file": "Chapter10FiniteAttainment.lean",
+      "source": "lean-modern/Chapter10FiniteAttainment.lean",
+      "sha256": "7f44f498c8ce92f5a0ed9e62d0ed8e04665bdd1fbb9a5c653ac1d56d34c18568"
+    },
+    {
+      "module": "Chapter10SequenceFixed",
+      "file": "Chapter10SequenceFixed.lean",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "sha256": "13e4d62829da559fc7589dede6a7e504f54f37aec474ba3d9b3eff9f3bef3199"
+    }
+  ],
+  "independent_statement_definitions": [
+    {
+      "declaration": "Chapter10.Bits",
+      "kind": "abbrev",
+      "source": "lean-modern/Chapter10.lean",
+      "source_start_line": 14,
+      "slice_sha256": "cbd8797297270eed4cdd1271258c45577c11357eca36c1da79a2389552621a7f"
+    },
+    {
+      "declaration": "Chapter10.bit",
+      "kind": "def",
+      "source": "lean-modern/Chapter10.lean",
+      "source_start_line": 16,
+      "slice_sha256": "00103ed9db71ebc6dcc21258af6f8c49a287c3b6a8b56347329494c954816105"
+    },
+    {
+      "declaration": "Chapter10.coverCount",
+      "kind": "def",
+      "source": "lean-modern/Chapter10.lean",
+      "source_start_line": 18,
+      "slice_sha256": "1432925ab7b6978922f77cc0b595da134d61b620f993923a9d5cc7cda60da704"
+    },
+    {
+      "declaration": "Chapter10.feasible",
+      "kind": "def",
+      "source": "lean-modern/Chapter10.lean",
+      "source_start_line": 28,
+      "slice_sha256": "8c9bb631424a6313f62b64de84bc508c93375f4c9801eb8a7fcc301fbc32cf05"
+    },
+    {
+      "declaration": "Chapter10.cost",
+      "kind": "def",
+      "source": "lean-modern/Chapter10.lean",
+      "source_start_line": 31,
+      "slice_sha256": "3cec889d40e529a0a35bd56e6b0a299ce94501999d8914e8857058dd80212f8a"
+    },
+    {
+      "declaration": "Chapter10.penalty",
+      "kind": "def",
+      "source": "lean-modern/Chapter10.lean",
+      "source_start_line": 33,
+      "slice_sha256": "d86943ac990d54214ec0bea12a74d11cac1715698d5f740bc7de5060f6fec0ff"
+    },
+    {
+      "declaration": "Chapter10.energy",
+      "kind": "def",
+      "source": "lean-modern/Chapter10.lean",
+      "source_start_line": 36,
+      "slice_sha256": "281736c7c0311bbf75587467313f8131e5c1880889a3b3b23ce13ef67aed02bc"
+    },
+    {
+      "declaration": "Chapter10.routeMin",
+      "kind": "def",
+      "source": "lean-modern/Chapter10.lean",
+      "source_start_line": 39,
+      "slice_sha256": "14bcce1737abf8343ee9225641c000737d11e7c970ec14573009134ff9f33c2b"
+    },
+    {
+      "declaration": "Chapter10.energyMin",
+      "kind": "def",
+      "source": "lean-modern/Chapter10.lean",
+      "source_start_line": 42,
+      "slice_sha256": "ecd7e6c6b745c818176fb2c56423d004d4bbbe7bd77ff117be38f39e4af5314c"
+    },
+    {
+      "declaration": "Chapter10.Algebra.Binary",
+      "kind": "def",
+      "source": "lean-modern/Chapter10QUBOAlgebra.lean",
+      "source_start_line": 13,
+      "slice_sha256": "bbc7ba78af9dd68ea431c4ddc7b10163622540de5f8b76ef4e1dd46a022c6ee1"
+    },
+    {
+      "declaration": "Chapter10.Algebra.linearCost",
+      "kind": "def",
+      "source": "lean-modern/Chapter10QUBOAlgebra.lean",
+      "source_start_line": 28,
+      "slice_sha256": "ba236db87301349afeae709348d88ebbab64db9880f57793bb9f893f29cde0ae"
+    },
+    {
+      "declaration": "Chapter10.Algebra.quadratic",
+      "kind": "def",
+      "source": "lean-modern/Chapter10QUBOAlgebra.lean",
+      "source_start_line": 40,
+      "slice_sha256": "4187fb371cf38a074e3bdcb0ddbc0b98f7feb3b95747ceee714e639261330607"
+    },
+    {
+      "declaration": "Chapter10.Algebra.diagonal",
+      "kind": "def",
+      "source": "lean-modern/Chapter10QUBOAlgebra.lean",
+      "source_start_line": 43,
+      "slice_sha256": "f56f53e892d6d2fc7a1dd732e5a430b8f930f285b6dbd52472165dd33c2b7a5b"
+    },
+    {
+      "declaration": "Chapter10.Algebra.squaredResidual",
+      "kind": "def",
+      "source": "lean-modern/Chapter10QUBOAlgebra.lean",
+      "source_start_line": 46,
+      "slice_sha256": "3579a158e635582718bfd55582086c5a8a40b08b93796de3ec6f3c6dd96e50b3"
+    },
+    {
+      "declaration": "Chapter10.Algebra.quboMatrix",
+      "kind": "def",
+      "source": "lean-modern/Chapter10QUBOAlgebra.lean",
+      "source_start_line": 50,
+      "slice_sha256": "c753a4c3add729db071ff6ff1d6407e77cde16390c5592bd3da17e463496cfb1"
+    },
+    {
+      "declaration": "Chapter10.Algebra.IsMinOn",
+      "kind": "def",
+      "source": "lean-modern/Chapter10IntegerPenalty.lean",
+      "source_start_line": 13,
+      "slice_sha256": "e4f9b81c30273a370e025f332196db4623754b3f09de29ca1e90b38091b382c5"
+    },
+    {
+      "declaration": "Chapter10.Algebra.penalized",
+      "kind": "def",
+      "source": "lean-modern/Chapter10IntegerPenalty.lean",
+      "source_start_line": 16,
+      "slice_sha256": "dabcb1997839fd6d66b9c5439d86691b39d097def8a4a0808d17db2d35d94d9a"
+    },
+    {
+      "declaration": "Chapter10.Algebra.integerFeasible",
+      "kind": "def",
+      "source": "lean-modern/Chapter10IntegerPenalty.lean",
+      "source_start_line": 60,
+      "slice_sha256": "6ed5d2015e8b3977f4e6db6d2e6d0dcd0aeca4291876d67ce2dfa85164b53cc6"
+    },
+    {
+      "declaration": "Chapter10.Algebra.integerPenalty",
+      "kind": "def",
+      "source": "lean-modern/Chapter10IntegerPenalty.lean",
+      "source_start_line": 64,
+      "slice_sha256": "a8262ae9e94da3dc30afdaa5155d212fba514a0cff86643fb8cd2404366c1636"
+    },
+    {
+      "declaration": "Chapter10.Algebra.extend",
+      "kind": "def",
+      "source": "lean-modern/Chapter10FixedBits.lean",
+      "source_start_line": 14,
+      "slice_sha256": "98546123a978b387ea629627795813358701d492d63c45747c364572768e601e"
+    },
+    {
+      "declaration": "Chapter10.Algebra.fixedDomain",
+      "kind": "def",
+      "source": "lean-modern/Chapter10FixedBits.lean",
+      "source_start_line": 18,
+      "slice_sha256": "5dfa276dc5aa1ad0b2908184b28085a719b4874a6b0869feb34ddd21b537190f"
+    },
+    {
+      "declaration": "Chapter10.Algebra.fixedLinear",
+      "kind": "def",
+      "source": "lean-modern/Chapter10FixedBits.lean",
+      "source_start_line": 73,
+      "slice_sha256": "9e4eead2165358904ed85d4e53b2a8949395042ed9727fcc7f5aeb2003a62eb0"
+    },
+    {
+      "declaration": "Chapter10.Algebra.fixedMatrix",
+      "kind": "def",
+      "source": "lean-modern/Chapter10FixedBits.lean",
+      "source_start_line": 76,
+      "slice_sha256": "9cfb67615414f5f51dbc822008bd99ae8f2a8e0721c3e5e155ad64f84ab2bd96"
+    },
+    {
+      "declaration": "Chapter10.Algebra.fixedOffset",
+      "kind": "def",
+      "source": "lean-modern/Chapter10FixedBits.lean",
+      "source_start_line": 80,
+      "slice_sha256": "81645a7e22661bfe57a3bbd7e76e3d8b5146423f18cef13999d99051fb8d4f98"
+    },
+    {
+      "declaration": "Chapter10.Algebra.productMatrix",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ProductMatrix.lean",
+      "source_start_line": 13,
+      "slice_sha256": "be8d10bc1c638a6bec3b4f25ce9fc5c1fb47089f3ab1703ec8151dce20f031a5"
+    },
+    {
+      "declaration": "Chapter10.Routing.Node",
+      "kind": "abbrev",
+      "source": "lean-modern/Chapter10RoutingData.lean",
+      "source_start_line": 12,
+      "slice_sha256": "e5aaadf96809f7eb092223ee5b5198dac78aaf9860309465a63356d1b21c43e9"
+    },
+    {
+      "declaration": "Chapter10.Routing.Data",
+      "kind": "structure",
+      "source": "lean-modern/Chapter10RoutingData.lean",
+      "source_start_line": 14,
+      "slice_sha256": "431228f064f77fed2a51ef9081268547ee1d8c764dd7c0c2d8a3cdd1f36e4c2d"
+    },
+    {
+      "declaration": "Chapter10.Routing.inWindow",
+      "kind": "def",
+      "source": "lean-modern/Chapter10RoutingData.lean",
+      "source_start_line": 24,
+      "slice_sha256": "3ab828c95fcf9c9820c28ffd4244306004b676874cac494b2df61e5bac271b55"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.Event",
+      "kind": "abbrev",
+      "source": "lean-modern/Chapter10ArcRows.lean",
+      "source_start_line": 15,
+      "slice_sha256": "d11791678f11f2706ffa9ddb3655336b51ae8bbe6240643b2cc732642a8e976e"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.Edge",
+      "kind": "abbrev",
+      "source": "lean-modern/Chapter10ArcRows.lean",
+      "source_start_line": 16,
+      "slice_sha256": "eaec8255dd13fec66a4f571a22e26b4b92e8e62a1cf6219efbc17288161c709a"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.Assignment",
+      "kind": "abbrev",
+      "source": "lean-modern/Chapter10ArcRows.lean",
+      "source_start_line": 17,
+      "slice_sha256": "0c97cbdba3976e6a62071c7b203c65def415375f0a00d260b698045315e56e4c"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.Grid",
+      "kind": "structure",
+      "source": "lean-modern/Chapter10ArcRows.lean",
+      "source_start_line": 19,
+      "slice_sha256": "a7a6879eaf53a73e82a9b6d13d7c988e4c23e1f6391590c3f413d758725fe080"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.chosen",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcRows.lean",
+      "source_start_line": 24,
+      "slice_sha256": "0ac80754df473498a647574938497647df846867292d7288b7f0a8ee883f4315"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.arrivals",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcRows.lean",
+      "source_start_line": 27,
+      "slice_sha256": "82f435ff949d8a7cfbbba56fdbeae3d423cbe44f23db9524a7f0ba1fa34e3413"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.incoming",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcRows.lean",
+      "source_start_line": 30,
+      "slice_sha256": "ff57155bd4bd81b93ed2d6cd66c0f3da34ac4ff79ea4001e79774c1bd400d0dc"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.outgoing",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcRows.lean",
+      "source_start_line": 33,
+      "slice_sha256": "d77dc95a09fbf689909f9c2349c34741141357d4c24d5fda0524ee20cf684312"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.Visit",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcRows.lean",
+      "source_start_line": 45,
+      "slice_sha256": "c0d96a62e279ea072beb3eabe8181a53a0bb4b0d0e8e9d1a24db0f7c44d15de9"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.Flow",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcRows.lean",
+      "source_start_line": 46,
+      "slice_sha256": "30a14e58bcb3a3f2095e6c0d021152315160a4435fe2807452ea587b15edfce7"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.ArrivalWindows",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcRows.lean",
+      "source_start_line": 49,
+      "slice_sha256": "f2c08270a61c6148f1a31ff29929f6232d9587ffea3de8afa8a989e0aeb1a926"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.DepartureWindows",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcRows.lean",
+      "source_start_line": 51,
+      "slice_sha256": "d47024dc11b3045c3149b37d8d1cde90b876877d0385a70f0625d82257c2a4b2"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.Permitted",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcRows.lean",
+      "source_start_line": 53,
+      "slice_sha256": "61aa0f2f953af94b165e800317c1eb780e40c43dfeafd8cb1a309a6b8a068d5a"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.Travel",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcRows.lean",
+      "source_start_line": 55,
+      "slice_sha256": "b12ebedbf0b346a3667edf09a822152599ed0bfc7e03a640a7c50d6e1ec93210"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.Feasible",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcRows.lean",
+      "source_start_line": 58,
+      "slice_sha256": "8da985329bbef81f9971e2c48b5f25bf8d45776465ca38ee19d5ef59ffb13e15"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.displayedSum",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcRows.lean",
+      "source_start_line": 62,
+      "slice_sha256": "da163cb6b649a6db4eecb55b031d8ffd15024f83afab35e9e52c8999d6a43c28"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.Literal",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcRows.lean",
+      "source_start_line": 75,
+      "slice_sha256": "7df275aa7cacd2861694e13dff9da1a15e71aadca1083845b9dc7558a37b73b6"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.objective",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcRows.lean",
+      "source_start_line": 187,
+      "slice_sha256": "1d41ba47ad17d42839b1122391b512e1c6b586b7ff29dbc04a8204c9a80c130c"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.Row",
+      "kind": "abbrev",
+      "source": "lean-modern/Chapter10ArcMatrix.lean",
+      "source_start_line": 15,
+      "slice_sha256": "72d58c36b4894d3430eef6955ce24b23891d530d52363ce1bf78186417870fdd"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.edgeValid",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcMatrix.lean",
+      "source_start_line": 17,
+      "slice_sha256": "1363bd2866b13fca2b43b82d007d6d31de6d65a3299cdd291d32d4512858976a"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.edgeValidDecision",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcMatrix.lean",
+      "source_start_line": 21,
+      "slice_sha256": "4918afc07b890ee6dce824ea5e379254942c64dac77ff149eae83101b96fe459"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.rowMatrix",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcMatrix.lean",
+      "source_start_line": 26,
+      "slice_sha256": "eb5176b9a03f7f332a6b1d47a43fdce78d125d90ab3504fe9a5c86b65e6a073e"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.rowRhs",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcMatrix.lean",
+      "source_start_line": 34,
+      "slice_sha256": "f503413041f4b7bf30a33b554c77911ef76802525bbfbdb5cabedc551b7128af"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.rowValue",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcMatrix.lean",
+      "source_start_line": 38,
+      "slice_sha256": "67c0309e15914a1fbc36c7e306f4ecee557c930ae63bd3111a84f68df75aa0bf"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.MatrixFeasible",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcMatrix.lean",
+      "source_start_line": 41,
+      "slice_sha256": "7ee6b16f0c4de20341f9ff7af9f0815d21beb0fa2dc34bcbfbdb2db7e149ef9a"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.coordinateCost",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcMatrix.lean",
+      "source_start_line": 121,
+      "slice_sha256": "9f3e9063b7d37a144219d87301203bdaaf078b826367f91445ccdc4e43e18482"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.arcPenalty",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcPenalty.lean",
+      "source_start_line": 16,
+      "slice_sha256": "3ac685eae6494f1ec916cbb66bb4e4446934970b146693b83aae12d50eef6e8a"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.arcEnergy",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcPenalty.lean",
+      "source_start_line": 19,
+      "slice_sha256": "661713752e9b945a5eeac9d1f1b41367b065ce3f0a6acd21b0f08faf6b4a4732"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.arcQUBO",
+      "kind": "def",
+      "source": "lean-modern/Chapter10ArcPenalty.lean",
+      "source_start_line": 61,
+      "slice_sha256": "71e5ec1d22b77fc2e7ac132497cfbb131c6ef0f8a38b5e5f5a7653fc7cd139f3"
+    },
+    {
+      "declaration": "Chapter10.Sequence.Array",
+      "kind": "abbrev",
+      "source": "lean-modern/Chapter10Sequence.lean",
+      "source_start_line": 14,
+      "slice_sha256": "ac1cb7a7d0f91109b7bda1e35c74ad7f8137f604d5325d0e785529e669b9986b"
+    },
+    {
+      "declaration": "Chapter10.Sequence.first",
+      "kind": "abbrev",
+      "source": "lean-modern/Chapter10Sequence.lean",
+      "source_start_line": 16,
+      "slice_sha256": "45d295e3020a0a4ff7764291bfba6ad30ea3493b5ec4ddc2eccc1e340a8a8661"
+    },
+    {
+      "declaration": "Chapter10.Sequence.last",
+      "kind": "abbrev",
+      "source": "lean-modern/Chapter10Sequence.lean",
+      "source_start_line": 17,
+      "slice_sha256": "143a47ffe01942a4b2cc6b317eb8bfffcb514d4566c0e88ce369062f9ee2d0a8"
+    },
+    {
+      "declaration": "Chapter10.Sequence.second",
+      "kind": "abbrev",
+      "source": "lean-modern/Chapter10Sequence.lean",
+      "source_start_line": 18,
+      "slice_sha256": "b70e5434a80e015afc7fef0fa4bb62517792d60b36ef22406630a4f0574edb51"
+    },
+    {
+      "declaration": "Chapter10.Sequence.penultimate",
+      "kind": "abbrev",
+      "source": "lean-modern/Chapter10Sequence.lean",
+      "source_start_line": 19,
+      "slice_sha256": "3c76c5dcf7a56114f39d3114753ee7feee9513e35c1787fbeca126d30f3bf9af"
+    },
+    {
+      "declaration": "Chapter10.Sequence.left",
+      "kind": "abbrev",
+      "source": "lean-modern/Chapter10Sequence.lean",
+      "source_start_line": 20,
+      "slice_sha256": "21218690113cff40f2b6db6933b0ef890ac72720f12bc2ba7370ba315f76af00"
+    },
+    {
+      "declaration": "Chapter10.Sequence.right",
+      "kind": "abbrev",
+      "source": "lean-modern/Chapter10Sequence.lean",
+      "source_start_line": 21,
+      "slice_sha256": "88bbed40b2ed3b4fa43fb738056b43a42f08c0bde6c2aca49725e7cb3c919d5c"
+    },
+    {
+      "declaration": "Chapter10.Sequence.Binary",
+      "kind": "def",
+      "source": "lean-modern/Chapter10Sequence.lean",
+      "source_start_line": 23,
+      "slice_sha256": "03896be46fb6dcf20bd456a434ccf6cb9288039cbeafe6f35a083bb1720c7e82"
+    },
+    {
+      "declaration": "Chapter10.Sequence.CustomerOnce",
+      "kind": "def",
+      "source": "lean-modern/Chapter10Sequence.lean",
+      "source_start_line": 25,
+      "slice_sha256": "de866bea63a9c9deafb7bb1723f8d76ab1bb4d6856dccc2df5d983d6beb82a85"
+    },
+    {
+      "declaration": "Chapter10.Sequence.PositionOnce",
+      "kind": "def",
+      "source": "lean-modern/Chapter10Sequence.lean",
+      "source_start_line": 27,
+      "slice_sha256": "986345cb20fb9fa2ddd6a79db3f7a32473a519715d3c20ca450afe8d4b42e747"
+    },
+    {
+      "declaration": "Chapter10.Sequence.AllowedProducts",
+      "kind": "def",
+      "source": "lean-modern/Chapter10Sequence.lean",
+      "source_start_line": 29,
+      "slice_sha256": "25faf410ee6840753d012c984b87c12b69d0de8fc0a03c040f2f59df5b67d7fc"
+    },
+    {
+      "declaration": "Chapter10.Sequence.AbsorbingProducts",
+      "kind": "def",
+      "source": "lean-modern/Chapter10Sequence.lean",
+      "source_start_line": 31,
+      "slice_sha256": "7b73423f94745588af62794641ebb2702668b774307f975ded1398ece799f581"
+    },
+    {
+      "declaration": "Chapter10.Sequence.FixedRows",
+      "kind": "structure",
+      "source": "lean-modern/Chapter10Sequence.lean",
+      "source_start_line": 35,
+      "slice_sha256": "b6c9de9ef1112e8c73cf5aad4578a92c5c30a6c7c55894dcbb5c9ca6e1a40e8b"
+    },
+    {
+      "declaration": "Chapter10.Sequence.Literal",
+      "kind": "structure",
+      "source": "lean-modern/Chapter10Sequence.lean",
+      "source_start_line": 43,
+      "slice_sha256": "510baed6121e06f7c84b3f452b82c33af23f1ba8df6d70d0de81462beb6cda4d"
+    },
+    {
+      "declaration": "Chapter10.Sequence.objective",
+      "kind": "def",
+      "source": "lean-modern/Chapter10Sequence.lean",
+      "source_start_line": 51,
+      "slice_sha256": "dac581f7f10edfe389a771bf8215430be3adc0f483dd821341499c8f54a53f8f"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.Coord",
+      "kind": "abbrev",
+      "source": "lean-modern/Chapter10SequencePenalty.lean",
+      "source_start_line": 15,
+      "slice_sha256": "64c96da095ba7ff76482af7b8b209808e4ddf98866c8ff96b6663b18ad189ee0"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.Transition",
+      "kind": "abbrev",
+      "source": "lean-modern/Chapter10SequencePenalty.lean",
+      "source_start_line": 16,
+      "slice_sha256": "a6271b7f03a77e7ff4602926b784531f167d406df72a8b62afe554521d885e47"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.Absorption",
+      "kind": "abbrev",
+      "source": "lean-modern/Chapter10SequencePenalty.lean",
+      "source_start_line": 17,
+      "slice_sha256": "416e97a09d1e854b2d54bdd49c3b915b3a78dc7ddf63f4e59d06cbbdf8dfaa76"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.flatten",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequencePenalty.lean",
+      "source_start_line": 19,
+      "slice_sha256": "aa6215ece0a696f26576e73ef80c373a7efc16a01943cfbe7692002bc4603a5f"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.inflate",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequencePenalty.lean",
+      "source_start_line": 20,
+      "slice_sha256": "0ea67ea867680d661618ff0aeab15cd2c1d776e8fda3dcaa1cd239fe2615963d"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.customerPenalty",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequencePenalty.lean",
+      "source_start_line": 25,
+      "slice_sha256": "d64d91720c0ff8068f539a3eca76a84ffeebf6de7198794e30d58c82f7c80ca8"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.positionTerm",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequencePenalty.lean",
+      "source_start_line": 27,
+      "slice_sha256": "c1d31385f86e2348f340f641828b90dffdeb7e4da020cf2acc10499ecc3e64b6"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.positionPenalty",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequencePenalty.lean",
+      "source_start_line": 29,
+      "slice_sha256": "f30f79c50884952a7617d56ab94428d6112f20e4c3dd1a7571f7a1b1b1b6792f"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.forbiddenTerm",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequencePenalty.lean",
+      "source_start_line": 30,
+      "slice_sha256": "17f775ff5d52fcad0172f2a9a8b20bf138a4edb265c910a4e82424f7b5312125"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.forbiddenPenalty",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequencePenalty.lean",
+      "source_start_line": 33,
+      "slice_sha256": "12a973800397947e51fb484fe21d1d4c04847199c76854a7e61ea6d3cd136bbe"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.absorbingTerm",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequencePenalty.lean",
+      "source_start_line": 34,
+      "slice_sha256": "23d045ba6c603615cfbe4c8ebf30f40eed77b11827db8060b183f36d8c617d64"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.absorbingPenalty",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequencePenalty.lean",
+      "source_start_line": 36,
+      "slice_sha256": "ac6c3ef94e209257da23990478b2935b6b6a79b9a3a3f9a14f09bc39ffb1e9b0"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.penalty",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequencePenalty.lean",
+      "source_start_line": 37,
+      "slice_sha256": "fec2610af68c3056163febb2d44524352c33fec09d86e4bd09bfd607071a671e"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.Rows",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequencePenalty.lean",
+      "source_start_line": 40,
+      "slice_sha256": "4349fcabbe6c52b0d66b6bc2e16778fe337bce4b99ce5025123fbeba5479a61c"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.domain",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequencePenalty.lean",
+      "source_start_line": 42,
+      "slice_sha256": "bf5cc67a965194de2f26f2ace0f04308c20e7a4cc7a03b6623fd3183662524bf"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.energy",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequencePenalty.lean",
+      "source_start_line": 44,
+      "slice_sha256": "19247086ab9d228ac54732dcd7feda4e58c906c215c17981536734b3f3031d48"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.coefficient",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceCost.lean",
+      "source_start_line": 14,
+      "slice_sha256": "c8eaa62cceaa870b40436831cb2397fc6bbfd1d873d1910e8cac39b8cbbb95ef"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.arcAbsCost",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceCost.lean",
+      "source_start_line": 18,
+      "slice_sha256": "482a62a3ce3f3e22273121189153f98689b558a62c60e3aa6485a29fa208018a"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.printedBound",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceCost.lean",
+      "source_start_line": 20,
+      "slice_sha256": "e0143ae6a6d8984ae57828b1a5231fcd734819dd7b9ef82cd7a2d42f23ed7165"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.OneHotRow",
+      "kind": "abbrev",
+      "source": "lean-modern/Chapter10SequenceMatrix.lean",
+      "source_start_line": 15,
+      "slice_sha256": "4fb0356dd4399e9d194923a4471966f57e269b118309c9e29f7ad86c0b5961cb"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.rowMatrix",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceMatrix.lean",
+      "source_start_line": 16,
+      "slice_sha256": "1568263cd89523722bbe2d88597a44c78ff446aef426b9bb6eb71eed3f719306"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.transitionLeft",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceMatrix.lean",
+      "source_start_line": 41,
+      "slice_sha256": "05e86835f3a5ce83d514460ef21dc2f06fa5111c548dba4030527c3746c703fc"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.transitionRight",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceMatrix.lean",
+      "source_start_line": 42,
+      "slice_sha256": "15361cb11da28dd7edfde0a3d841a0af796db3acf2dd9751dede890f911afeb8"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.absorptionLeft",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceMatrix.lean",
+      "source_start_line": 43,
+      "slice_sha256": "37ed34a84e99463cd62760d50b426c01d3073c0a0971a897e0e0efc22576fea0"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.absorptionRight",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceMatrix.lean",
+      "source_start_line": 44,
+      "slice_sha256": "aef12aafde23f4536a425254f529c2b6b2b3adefcc758b1317e244cf16bf869b"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.objectiveMatrix",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceMatrix.lean",
+      "source_start_line": 46,
+      "slice_sha256": "d417d57fe4e0d358eed087749ba47b9404ee396b2d4f63ddd3861218a945fe80"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.forbiddenMatrix",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceMatrix.lean",
+      "source_start_line": 48,
+      "slice_sha256": "1c5ec65103cb0a04950bf99d4960c703a4ec2e0acc7175d97efa4747db3a88ad"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.absorbingMatrix",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceMatrix.lean",
+      "source_start_line": 50,
+      "slice_sha256": "cb96974a9ba67a20147c0fb76eaa67554cf409ffe040ec0014376f077bb1bd74"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.matrix",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceMatrix.lean",
+      "source_start_line": 76,
+      "slice_sha256": "e386812eca780a3b985f33d49af6395056f61f6eb31a56f65d61961865ecae2d"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.fixedOne",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 16,
+      "slice_sha256": "2bfce57613cf7a88158c61c5f476381cd3f91729202686a02ba3524a50f1442a"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.fixedZero",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 18,
+      "slice_sha256": "7e4c2fbd2dd5a76c6c8f29ef9ff8999e15d939a6cdc9e2295097e278bfce964d"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.fixedCondition",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 22,
+      "slice_sha256": "d02da7c1978da579660d6116c5572cfcb12014a40eb6ebbfbcc0900178be897a"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.Free",
+      "kind": "abbrev",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 23,
+      "slice_sha256": "b64ec3ca7606ce8317c362155f32b72cae0cf9f53ae583b2c64bff57c7662a1b"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.Fixed",
+      "kind": "abbrev",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 24,
+      "slice_sha256": "3cc93c385f960d647bd74c511e0f8adf311fe38ff0b693204a811cd92648331a"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.freeFintype",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 26,
+      "slice_sha256": "135ff3db46c57a42965c0c5237eec9cef98e9989fbb8e0ace2bfa71719e57084"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.fixedFintype",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 27,
+      "slice_sha256": "15d7603c33f4dc3adbcae34e8abf2ade42789bac8accecfc7d27f16b40f3ee5d"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.splitCoordinates",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 31,
+      "slice_sha256": "1960d8610d4dff95b46c798621096451c69b253e30dc98e5549fd069b7116555"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.fixedValues",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 48,
+      "slice_sha256": "617a8c68c38308f5fdc3c2420c47c9ee317dd657f75d043e61415d491090e17e"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.splitArray",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 99,
+      "slice_sha256": "a9ab725227cbe765d1361a2bd7f4ac5e655b153432fe7605ebf6267e18b10aa2"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.sourceExtend",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 128,
+      "slice_sha256": "367ac278e3f702441bb8546a68d088c043361caa2b27f98e0929cd573a982ad2"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.splitMatrix",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 170,
+      "slice_sha256": "8cf752a9f34b72719e34ddbaffbf59947947779acf9a5ff5a7829fd9c88ecfd7"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.reducedMatrix",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 173,
+      "slice_sha256": "343f3a9e9ac70ef1acaad1b653a62efcac3fa629bad0a0c53d42fb469ffa85f5"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.reducedOffset",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 175,
+      "slice_sha256": "8c42b9c7fdb4debb8a3028dd5f325c14a80bde126f2b09d93f25fbf15d690819"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.reducedEnergy",
+      "kind": "def",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 178,
+      "slice_sha256": "c11cf448b43965b9f8ba1c257db628959a22f4cc3c6561f7d83d307548e0c356"
+    }
+  ],
+  "targets": [
+    {
+      "declaration": "Chapter10.palomar_source_route_penalty_proposition",
+      "source_declaration": "Chapter10.source_route_penalty_proposition",
+      "source": "lean-modern/Chapter10.lean",
+      "source_start_line": 133,
+      "source_signature_sha256": "b59371eac8e1626e28a3da6cd8f63a10cfcb3eb444877999a874f1be4ed7cfa2",
+      "role": "incidence companion",
+      "interface_role": "main"
+    },
+    {
+      "declaration": "Chapter10.Algebra.palomar_integer_penalty_zero_iff",
+      "source_declaration": "Chapter10.Algebra.integer_penalty_zero_iff",
+      "source": "lean-modern/Chapter10IntegerPenalty.lean",
+      "source_start_line": 111,
+      "source_signature_sha256": "e3d5b4f56e0ed6f7836c70b16749aee78a945ab9357481dcd6517a5f5683240f",
+      "role": "unit-gap support",
+      "interface_role": "support"
+    },
+    {
+      "declaration": "Chapter10.Algebra.palomar_integer_penalty_gap",
+      "source_declaration": "Chapter10.Algebra.integer_penalty_gap",
+      "source": "lean-modern/Chapter10IntegerPenalty.lean",
+      "source_start_line": 98,
+      "source_signature_sha256": "d7682056cc94532934010543a661c61e60dbeece270210a76df2ee94ff1ed784",
+      "role": "unit-gap support",
+      "interface_role": "support"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.palomar_matrix_iff_literal",
+      "source_declaration": "Chapter10.Routing.Arc.matrix_iff_literal",
+      "source": "lean-modern/Chapter10ArcMatrix.lean",
+      "source_start_line": 73,
+      "source_signature_sha256": "dbce8ad29acbd3088f1c36045f697e07853f86263c0808f8ad90e82690f66324",
+      "role": "literal arc matrix bridge",
+      "interface_role": "main"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.palomar_arc_penalty_zero_iff",
+      "source_declaration": "Chapter10.Routing.Arc.arc_penalty_zero_iff",
+      "source": "lean-modern/Chapter10ArcPenalty.lean",
+      "source_start_line": 22,
+      "source_signature_sha256": "064179f953df404396d9e5fd5ced7529a8546a3dbc7840f663c164400b162a9d",
+      "role": "literal arc penalty",
+      "interface_role": "main"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.palomar_arc_minimizers_exact",
+      "source_declaration": "Chapter10.Routing.Arc.arc_minimizers_exact",
+      "source": "lean-modern/Chapter10ArcPenalty.lean",
+      "source_start_line": 50,
+      "source_signature_sha256": "cdee0b0006c8e1f2f873492e6a60f22bc7140f6011130b1d80c3775e8277eebd",
+      "role": "literal arc minimizers",
+      "interface_role": "main"
+    },
+    {
+      "declaration": "Chapter10.Routing.Arc.palomar_actual_arc_qubo_identity",
+      "source_declaration": "Chapter10.Routing.Arc.actual_arc_qubo_identity",
+      "source": "lean-modern/Chapter10ArcPenalty.lean",
+      "source_start_line": 64,
+      "source_signature_sha256": "8f2af5de7a959b769e1a35c7b73009512a728a6150107338c16f43aff25d704c",
+      "role": "literal arc matrix energy",
+      "interface_role": "main"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.palomar_source_penalty_sums",
+      "source_declaration": "Chapter10.SequencePenalty.source_penalty_sums",
+      "source": "lean-modern/Chapter10SequencePenalty.lean",
+      "source_start_line": 47,
+      "source_signature_sha256": "dcccebbbee42fa20c50dfeff907da31108c45e31116192973c4323e98b780366",
+      "role": "literal sequence penalty sums",
+      "interface_role": "main"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.palomar_penalty_zero_iff",
+      "source_declaration": "Chapter10.SequencePenalty.penalty_zero_iff",
+      "source": "lean-modern/Chapter10SequencePenalty.lean",
+      "source_start_line": 185,
+      "source_signature_sha256": "18c055e0a0a9f2485f87cb0608b20702b9648635a0978c28dd702d59d8d6ad62",
+      "role": "literal sequence penalty",
+      "interface_role": "main"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.palomar_objective_range",
+      "source_declaration": "Chapter10.SequencePenalty.objective_range",
+      "source": "lean-modern/Chapter10SequenceCost.lean",
+      "source_start_line": 44,
+      "source_signature_sha256": "60bdc7f271f9c18329fdda969544061e36684875738a1e4638c3aa7e1826ec46",
+      "role": "tight repeated-cost bound",
+      "interface_role": "support"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.palomar_objective_range_printed",
+      "source_declaration": "Chapter10.SequencePenalty.objective_range_printed",
+      "source": "lean-modern/Chapter10SequenceCost.lean",
+      "source_start_line": 50,
+      "source_signature_sha256": "01e12372efa0bcaf4f178b4b3bda5ec40b19bb804760b3fb063c369699d5ed2d",
+      "role": "printed repeated-cost bound",
+      "interface_role": "support"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.palomar_minimizers_exact",
+      "source_declaration": "Chapter10.SequencePenalty.minimizers_exact",
+      "source": "lean-modern/Chapter10SequenceCost.lean",
+      "source_start_line": 75,
+      "source_signature_sha256": "67bf4b9a0fd89c44c357ad9db75fb5c69fab629cacb55bf7810e04c3e0339e19",
+      "role": "literal sequence minimizers",
+      "interface_role": "main"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.palomar_source_energy_matrix_identity",
+      "source_declaration": "Chapter10.SequencePenalty.source_energy_matrix_identity",
+      "source": "lean-modern/Chapter10SequenceMatrix.lean",
+      "source_start_line": 88,
+      "source_signature_sha256": "1abef6f60d620e111c324302bc90fc15222e0278449e04502a4cf5b757483aed",
+      "role": "literal sequence matrix energy",
+      "interface_role": "main"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.palomar_domain_iff_split_fixed",
+      "source_declaration": "Chapter10.SequencePenalty.domain_iff_split_fixed",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 102,
+      "source_signature_sha256": "2f605591c0d2353e628c90d2b8ca538b4b71f307eb2b0f6623543c006dc4a13e",
+      "role": "actual source fixed partition",
+      "interface_role": "main"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.palomar_source_fixed_energy_identity",
+      "source_declaration": "Chapter10.SequencePenalty.source_fixed_energy_identity",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 181,
+      "source_signature_sha256": "667d0d16c032901ad5d9e9003c3092e5e552dd428f1e644e6093f477013baac4",
+      "role": "actual source reduced energy",
+      "interface_role": "main"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.palomar_source_fixed_min_transport",
+      "source_declaration": "Chapter10.SequencePenalty.source_fixed_min_transport",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 192,
+      "source_signature_sha256": "4a266f8f3b67e330ddab6659bf3750fdcbf2f071d92fd48ff714c295ec5e8dce",
+      "role": "actual source minimum transport",
+      "interface_role": "main"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.palomar_reduced_minimizers_exact",
+      "source_declaration": "Chapter10.SequencePenalty.reduced_minimizers_exact",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 225,
+      "source_signature_sha256": "cf504bd30c7e3774be96881d7d3e0d45323c611683d9a708923cff75bda39fdb",
+      "role": "actual source reduced exactness",
+      "interface_role": "main"
+    },
+    {
+      "declaration": "Chapter10.SequencePenalty.palomar_source_energy_attainment",
+      "source_declaration": "Chapter10.SequencePenalty.source_energy_attainment",
+      "source": "lean-modern/Chapter10SequenceFixed.lean",
+      "source_start_line": 233,
+      "source_signature_sha256": "9efd4f71f1db0e4c0fc5bf63a25f0fa8875b6f9d6454619a167493440cad0161",
+      "role": "actual finite source attainment",
+      "interface_role": "main"
+    },
+    {
+      "declaration": "Chapter10.Algebra.palomar_full_qubo_identity",
+      "source_declaration": "Chapter10.Algebra.full_qubo_identity",
+      "source": "lean-modern/Chapter10QUBOAlgebra.lean",
+      "source_start_line": 104,
+      "source_signature_sha256": "55a5a866b42cb469685c52c0ced882e569d51a989cbf94e739563ff5998c1418",
+      "scope": "Exact source hypotheses and conclusion under a new alias; no weakening.",
+      "role": "generic integer/QUBO core",
+      "interface_role": "main"
+    },
+    {
+      "declaration": "Chapter10.Algebra.palomar_integer_penalty_minimizers_exact",
+      "source_declaration": "Chapter10.Algebra.integer_penalty_minimizers_exact",
+      "source": "lean-modern/Chapter10IntegerPenalty.lean",
+      "source_start_line": 139,
+      "source_signature_sha256": "73e4c0475464fec65cf9442da6310f480c655b10f945606e7b9ff7828cbccf7a",
+      "scope": "Exact source hypotheses and conclusion under a new alias; no weakening.",
+      "role": "generic integer/QUBO core",
+      "interface_role": "main"
+    },
+    {
+      "declaration": "Chapter10.Algebra.palomar_fixed_qubo_identity",
+      "source_declaration": "Chapter10.Algebra.fixed_qubo_identity",
+      "source": "lean-modern/Chapter10FixedBits.lean",
+      "source_start_line": 107,
+      "source_signature_sha256": "d1b25eb4b401070cf09a905fc68f8d939049879686188318dafc71fdd52a73af",
+      "scope": "Exact source hypotheses and conclusion under a new alias; no weakening.",
+      "role": "generic integer/QUBO core",
+      "interface_role": "main"
+    },
+    {
+      "declaration": "Chapter10.Algebra.palomar_fixed_qubo_min_transport",
+      "source_declaration": "Chapter10.Algebra.fixed_qubo_min_transport",
+      "source": "lean-modern/Chapter10FixedBits.lean",
+      "source_start_line": 115,
+      "source_signature_sha256": "deb9a529649ab76ee4728e95e4045d0c4d19721b15a462ebab0a6d4035ab155f",
+      "scope": "Exact source hypotheses and conclusion under a new alias; no weakening.",
+      "role": "generic integer/QUBO core",
+      "interface_role": "main"
+    }
+  ],
+  "public_source_archive_sha256": "e737a06098a579abc4d1186ca6237d3b91f29bd57e8c52cb15a0a5906184ca81",
+  "source_copy_check": "All20project source files match the retained exact public archive and current local sources.",
+  "proof_inputs_changed": false,
+  "new_mathematical_result_claimed": false,
+  "family_scope": "Complete prepared C10-PENALTY generic core plus literal incidence/arc/sequence/fixed-domain family, not a mathematical acceptance claim.",
+  "main_interface_count": 18,
+  "support_interface_count": 4,
+  "source_files_changed": false,
+  "auxiliary_comparison_theorems": [
+    {
+      "declaration": "Chapter10.Sequence.penultimate._proof_2",
+      "source_file": "Chapter10Sequence.lean",
+      "source_module_sha256": "713069b500e40905e1a15a7f5546bbde4e30ef10abe217c24dcc87e59c311b24",
+      "constructor_source": "abbrev penultimate (k : \u2115) : Fin (k+2) := \u27e8k, by omega\u27e9",
+      "role": "Completed finite-position validity proof; auxiliary only, not a research contribution",
+      "comparison": "Actual exact elaborated proposition equality and completed Solution proof/axiom/Lean-NanoDa-con-ron replay passed in routing-penalty02. No computational-definition exemption.",
+      "prior_evidence": "Earlier byte-identical S285 source-helper evidence is historical context; current routing-penalty02 checks now establish this packet comparison.",
+      "observed_axioms": [
+        "Quot.sound",
+        "propext"
+      ]
+    },
+    {
+      "declaration": "Chapter10.Sequence.second._proof_2",
+      "source_file": "Chapter10Sequence.lean",
+      "source_module_sha256": "713069b500e40905e1a15a7f5546bbde4e30ef10abe217c24dcc87e59c311b24",
+      "constructor_source": "abbrev second (k : \u2115) : Fin (k+2) := \u27e81, by omega\u27e9",
+      "role": "Completed finite-position validity proof; auxiliary only, not a research contribution",
+      "comparison": "Actual exact elaborated proposition equality and completed Solution proof/axiom/Lean-NanoDa-con-ron replay passed in routing-penalty02. No computational-definition exemption.",
+      "prior_evidence": "Earlier byte-identical S285 source-helper evidence is historical context; current routing-penalty02 checks now establish this packet comparison.",
+      "observed_axioms": [
+        "Quot.sound",
+        "propext"
+      ]
+    }
+  ],
+  "comparison_boundary": "Twenty-two unchanged complete mathematical/support interfaces plus exactly two source-generated finite-position proof targets. Actual Comparator established exact elaborated auxiliary proposition equality and validated their completed Solution proofs with the same axiom whitelist and Lean/NanoDa/con-ron replay. Proof bodies may differ for these explicit theorem targets. Every computational definition remains structurally compared; no computational-definition exemption, new axiom, disabled sandbox/checker or skipped kernel.",
+  "build_status": "Completed bounded routing-penalty02 source/Challenge/Solution/default builds, all 24 axiom roots and genuine sandboxed Comparator with Lean/NanoDa/con-ron acceptance. See VERIFICATION.json for exact hashes, warnings, resources/cache and trust limits.",
+  "current_evidence": "VERIFICATION.json; historical source acceptance and current packet checks are distinct.",
+  "source_level_selected_proof_visibility": {
+    "classification": "Source-level visibility repair only; no new mathematics or helper research credit",
+    "source_diagnostic": {
+      "receipt": "PROJECT-S290 verification/routing-renderable-proof-diag01/result.json",
+      "receipt_sha256": "730f525d0d2e3e011edaac62e6a5b3a862676af3df610132488293d939251b4d",
+      "stdout_sha256": "ef3b5bbb218faf6855da280bae2b6981761a0c513df631dcc925430c5b8e2907"
+    },
+    "declarations": [
+      {
+        "declaration": "Chapter10.Sequence.second._proof_2",
+        "complete_proposition": "\u2200 (k : Nat), 1 < k+2",
+        "source_header": "theorem second._proof_2 (k : \u2115) : 1 < k+2 := by omega",
+        "parent_definition": "Chapter10.Sequence.second",
+        "prior_parent_surface_sha256": "b70e5434a80e015afc7fef0fa4bb62517792d60b36ef22406630a4f0574edb51",
+        "new_parent_surface_sha256": "ddd266da77284df048759d2d092d4134b8f086235250fda0895bb83ee93b07c3",
+        "parent_before": "abbrev second (k : \u2115) : Fin (k+2) := \u27e81, by omega\u27e9",
+        "parent_after": "abbrev second (k : \u2115) : Fin (k+2) := \u27e81, second._proof_2 k\u27e9",
+        "completed_theorem_sha256": "1593c6a95f4d0491f10afcba289d811f53242df31689daf48ef144d6d0234d10",
+        "proof": "Completed ordinary omega theorem; exact elaborated type and full computational constant comparison remain mandatory."
+      },
+      {
+        "declaration": "Chapter10.Sequence.penultimate._proof_2",
+        "complete_proposition": "\u2200 (k : Nat), k < k+2",
+        "source_header": "theorem penultimate._proof_2 (k : \u2115) : k < k+2 := by omega",
+        "parent_definition": "Chapter10.Sequence.penultimate",
+        "prior_parent_surface_sha256": "3c76c5dcf7a56114f39d3114753ee7feee9513e35c1787fbeca126d30f3bf9af",
+        "new_parent_surface_sha256": "65d33a2e2e558cd25d4ee2dd614977104cc1ebee1636b705fe761cba7029a728",
+        "parent_before": "abbrev penultimate (k : \u2115) : Fin (k+2) := \u27e8k, by omega\u27e9",
+        "parent_after": "abbrev penultimate (k : \u2115) : Fin (k+2) := \u27e8k, penultimate._proof_2 k\u27e9",
+        "completed_theorem_sha256": "4c100e97cf7a4d9d7f6cd99cdc316a1a27a94f30c14196a11b668021a30f1b25",
+        "proof": "Completed ordinary omega theorem; exact elaborated type and full computational constant comparison remain mandatory."
+      }
+    ],
+    "all_other_Challenge_bytes_unchanged": true,
+    "source_copies_Solution_main_types_config_axioms_pins_metadata_unchanged": true,
+    "compiled_range_audit": "Private post-build audit of Challenge.ilean for every selected target; not a claim of full remote Verso rendering",
+    "no_computational_exemption": true,
+    "no_raw_declaration_or_anchor_insertion": true,
+    "documentation_comment_placement": "Existing parent doc comments retained immediately above parent abbreviations; theorem doc comments placed above the theorem commands."
+  },
+  "historical_preparation_status": "SOURCE_PROVENANCE_MANIFEST_LOCAL_CHECKED_AGENT_REVIEWED",
+  "current_package_status": "LOCAL_CHECKED_AGENT_REVIEWED_DOCUMENTARY_SUCCESSOR"
+}
